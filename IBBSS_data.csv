@@ -1,0 +1,1441 @@
+userId,userLabelIndex,transcription,groundTruth,randomNoiseStandardDeviation,lowPassFreqCutoff,highPassFreqCutoff,synthName,encodingType
+0,0,"is the air conditioner in the kitchen working properly","is the air conditioner in the kitchen working properly",0.3,300.0,2500.0,google,mp3
+0,1,"in the thirty","are the sensors operating in the study",0.3,300.0,2500.0,espeak,mp3
+0,2,"did i turn the dialing to loud","did i turn the dining room heat off",0.3,300.0,2500.0,google,mp3
+0,3,"in the kitchen","why is the time wrong on the clock in the kitchen",0.3,300.0,2500.0,flite,mp3
+0,4,"are the living room air conditioners not working correctly","are the living room air conditioners not working correctly",0.4,400.0,2000.0,google,mp3
+0,5,"are the","are the gym thermometers on",0.4,400.0,2000.0,flite,mp3
+0,6,"are the american vision","are the kitchen air-conditions on",0.4,400.0,2000.0,espeak,mp3
+0,7,"what time","what time is on the hallway clock",0.4,400.0,2000.0,espeak,mp3
+0,8,"eight hours ok","is alice okay",0.4,400.0,2000.0,google,mp3
+0,9,"are the lights in the kitchen turned off","are the lights in the kitchen turned off",0.4,400.0,2000.0,flite,mp3
+0,10,"is the bedroom thermometer still reading","does the bedroom thermometer show a reading",0.4,400.0,2000.0,google,mp3
+0,11,"is the toaster being used in the kitchen","is the toaster being used in the kitchen",0.4,400.0,2000.0,flite,mp3
+0,12,"is the kitchen light turned on","is the kitchen microwave turned on",0.3,300.0,2500.0,espeak,mp3
+0,13,"is the broken","is the gym clock broken",0.4,400.0,2000.0,flite,mp3
+0,14,"are the alarms in the living room broken","are the alarms in the livingroom broken",0.4,400.0,2000.0,espeak,mp3
+0,15,"are the clocks in the living room running ok","are the clocks in the livingroom running okay",0.3,300.0,2500.0,flite,mp3
+0,16,"can you hear the radio","can you hear the radio",0.5,500.0,1500.0,google,mp3
+0,17,"is the in the hallway showing the light","is the clock in the hallway showing the right time",0.5,500.0,1500.0,flite,mp3
+0,18,"are the working","are the home office boomboxes working",0.5,500.0,1500.0,google,mp3
+0,19,"are the smoke detectors in the kitchen ok or not","are the smoke detectors in the kitchen okay or not",0.5,500.0,1500.0,flite,mp3
+0,20,"blair","is someone toasting bread",0.5,500.0,1500.0,espeak,mp3
+0,21,"can you see if the smoke detector in the kitchen is working","can you see if the smoke detector in the kitchen is working",0.5,500.0,1500.0,flite,mp3
+0,22,"where can i find a","where can i find the clock",0.5,500.0,1500.0,google,mp3
+0,23,"is the bedroom on","is the bedroom security alarm on",0.5,500.0,1500.0,flite,mp3
+0,24,"is the flow detector in the living room functioning optimally","is the smoke detector in the living room functioning optimally",0.5,500.0,1500.0,google,mp3
+0,25,"are the lights turned on","are the lights turned on",0.5,500.0,1500.0,flite,mp3
+0,26,"is the in the kitchen working","is the blender in the kitchen working properly",0.3,300.0,2500.0,espeak,mp3
+0,27,"what is the show on the television","what is the show on the television",0.3,300.0,2500.0,google,mp3
+0,28,"hallway turned on","do you know whether the phone in the hallway is turned off",0.3,300.0,2500.0,espeak,mp3
+0,29,"what in the country right now","what do the sensors in the gym say right now",0.3,300.0,2500.0,google,mp3
+1,0,"if the ants in despair and the kitchen working properly","is the air conditioner in the kitchen working properly",0.3,300.0,2500.0,google,mp3
+1,1,"","are the sensors operating in the study",0.3,300.0,2500.0,espeak,mp3
+1,2,"did i turn the dining room heat off","did i turn the dining room heat off",0.3,300.0,2500.0,google,mp3
+1,3,"in the kitchen","why is the time wrong on the clock in the kitchen",0.3,300.0,2500.0,flite,mp3
+1,4,"the living room air conditioner is not working correctly","are the living room air conditioners not working correctly",0.4,400.0,2000.0,google,mp3
+1,5,"","are the gym thermometers on",0.4,400.0,2000.0,flite,mp3
+1,6,"air condition","are the kitchen air-conditions on",0.4,400.0,2000.0,espeak,mp3
+1,7,"what time","what time is on the hallway clock",0.4,400.0,2000.0,espeak,mp3
+1,8,"okay","is alice okay",0.4,400.0,2000.0,google,mp3
+1,9,"are the lights in the kitchen turned off","are the lights in the kitchen turned off",0.4,400.0,2000.0,flite,mp3
+1,10,"is the bedroom thermometer still reading","does the bedroom thermometer show a reading",0.4,400.0,2000.0,google,mp3
+1,11,"in the kitchen","is the toaster being used in the kitchen",0.4,400.0,2000.0,flite,mp3
+1,12,"is the kitchen microwave turned on","is the kitchen microwave turned on",0.3,300.0,2500.0,espeak,mp3
+1,13,"is the broken","is the gym clock broken",0.4,400.0,2000.0,flite,mp3
+1,14,"living room","are the alarms in the livingroom broken",0.4,400.0,2000.0,espeak,mp3
+1,15,"five oclock","are the clocks in the livingroom running okay",0.3,300.0,2500.0,flite,mp3
+1,16,"the radio","can you hear the radio",0.5,500.0,1500.0,google,mp3
+1,17,"nighttime","is the clock in the hallway showing the right time",0.5,500.0,1500.0,flite,mp3
+1,18,"are the working","are the home office boomboxes working",0.5,500.0,1500.0,google,mp3
+1,19,"are the smoke detectors in the kitchen","are the smoke detectors in the kitchen okay or not",0.5,500.0,1500.0,flite,mp3
+1,20,"","is someone toasting bread",0.5,500.0,1500.0,espeak,mp3
+1,21,"can you see the smoke detector in the kitchen is working","can you see if the smoke detector in the kitchen is working",0.5,500.0,1500.0,flite,mp3
+1,22,"where can i find a buck","where can i find the clock",0.5,500.0,1500.0,google,mp3
+1,23,"is the bedroom light on","is the bedroom security alarm on",0.5,500.0,1500.0,flite,mp3
+1,24,"is the smoke detector in the living room","is the smoke detector in the living room functioning optimally",0.5,500.0,1500.0,google,mp3
+1,25,"are the lights turned on","are the lights turned on",0.5,500.0,1500.0,flite,mp3
+1,26,"working properly","is the blender in the kitchen working properly",0.3,300.0,2500.0,espeak,mp3
+1,27,"what is the show on the television","what is the show on the television",0.3,300.0,2500.0,google,mp3
+1,28,"hallway turned off","do you know whether the phone in the hallway is turned off",0.3,300.0,2500.0,espeak,mp3
+1,29,"what is the daylight now","what do the sensors in the gym say right now",0.3,300.0,2500.0,google,mp3
+2,0,"","is the air conditioner in the kitchen working properly",0.3,300.0,2500.0,google,mp3
+2,1,"","are the sensors operating in the study",0.3,300.0,2500.0,espeak,mp3
+2,2,"","did i turn the dining room heat off",0.3,300.0,2500.0,google,mp3
+2,3,"","why is the time wrong on the clock in the kitchen",0.3,300.0,2500.0,flite,mp3
+2,4,"","are the living room air conditioners not working correctly",0.4,400.0,2000.0,google,mp3
+2,5,"","are the gym thermometers on",0.4,400.0,2000.0,flite,mp3
+2,6,"","are the kitchen air-conditions on",0.4,400.0,2000.0,espeak,mp3
+2,7,"what kind of","what time is on the hallway clock",0.4,400.0,2000.0,espeak,mp3
+2,8,"","is alice okay",0.4,400.0,2000.0,google,mp3
+2,9,"","are the lights in the kitchen turned off",0.4,400.0,2000.0,flite,mp3
+2,10,"","does the bedroom thermometer show a reading",0.4,400.0,2000.0,google,mp3
+2,11,"","is the toaster being used in the kitchen",0.4,400.0,2000.0,flite,mp3
+2,12,"","is the kitchen microwave turned on",0.3,300.0,2500.0,espeak,mp3
+2,13,"","is the gym clock broken",0.4,400.0,2000.0,flite,mp3
+2,14,"","are the alarms in the livingroom broken",0.4,400.0,2000.0,espeak,mp3
+2,15,"","are the clocks in the livingroom running okay",0.3,300.0,2500.0,flite,mp3
+2,16,"can you do the radio","can you hear the radio",0.5,500.0,1500.0,google,mp3
+2,17,"its a problem always show the right time","is the clock in the hallway showing the right time",0.5,500.0,1500.0,flite,mp3
+2,18,"i bergam of that rain bark is working","are the home office boomboxes working",0.5,500.0,1500.0,google,mp3
+2,19,"i did not expect any pitching okay or not","are the smoke detectors in the kitchen okay or not",0.5,500.0,1500.0,flite,mp3
+2,20,"","is someone toasting bread",0.5,500.0,1500.0,espeak,mp3
+2,21,"","can you see if the smoke detector in the kitchen is working",0.5,500.0,1500.0,flite,mp3
+2,22,"where can i find a bath","where can i find the clock",0.5,500.0,1500.0,google,mp3
+2,23,"","is the bedroom security alarm on",0.5,500.0,1500.0,flite,mp3
+2,24,"its a flow detective in my living room continuously happening","is the smoke detector in the living room functioning optimally",0.5,500.0,1500.0,google,mp3
+2,25,"","are the lights turned on",0.5,500.0,1500.0,flite,mp3
+2,26,"its mernandalin located in flawberry","is the blender in the kitchen working properly",0.3,300.0,2500.0,espeak,mp3
+2,27,"what is the show on the television","what is the show on the television",0.3,300.0,2500.0,google,mp3
+2,28,"","do you know whether the phone in the hallway is turned off",0.3,300.0,2500.0,espeak,mp3
+2,29,"what is the temple to micamic right now","what do the sensors in the gym say right now",0.3,300.0,2500.0,google,mp3
+3,0,"people like when you","is the light in the hallway turned on",0.3,300.0,2500.0,flite,mp3
+3,1,"then we","can you tell me if i left the phone on that is in the bedroom",0.3,300.0,2500.0,espeak,mp3
+3,2,"what did kitchen","what do the sensors in the kitchen currently read",0.3,300.0,2500.0,flite,mp3
+3,3,"what do all the","what do all the sensors in the livingroom read right now",0.3,300.0,2500.0,espeak,mp3
+3,4,"is the telephone located in the dining room not functioning well","is the telephone located in the dinning room not functioning well",0.4,400.0,2000.0,google,mp3
+3,5,"are the phones bedroom","are the phones in the bedroom in use",0.4,400.0,2000.0,espeak,mp3
+3,6,"are all of the thermostats running","are all of the thermostats running",0.4,400.0,2000.0,google,mp3
+3,7,"is it","is the phone in the living room off",0.4,400.0,2000.0,flite,mp3
+3,8,"is the light in the dark room left on","is the light in the bathroom left on",0.4,400.0,2000.0,flite,mp3
+3,9,"is the bedroom working","is the bedroom of working",0.4,400.0,2000.0,espeak,mp3
+3,10,"why do you the fire alarm in the to catch smoke","why didn't the fire alarm in the gym detect smoke",0.4,400.0,2000.0,google,mp3
+3,11,"are the lights on in the","are the lights on in the gym",0.4,400.0,2000.0,espeak,mp3
+3,12,"check if the office phone is working","check if the office phone is working",0.4,400.0,2000.0,google,mp3
+3,13,"cannot be it should be","is the hallway tv working asi it should be",0.3,300.0,2500.0,flite,mp3
+3,14,"are the alarms in the office turned off","are the alarms in the office turned off",0.4,400.0,2000.0,google,mp3
+3,15,"","have the televisions in the living room been switched on",0.5,500.0,1500.0,espeak,mp3
+3,16,"whats the current temperature in the living room","what's the current temperature in the living room",0.3,300.0,2500.0,google,mp3
+3,17,"","what does the living room thermometer show",0.5,500.0,1500.0,espeak,mp3
+3,18,"is the office phone broken","is the office phone broken",0.5,500.0,1500.0,google,mp3
+3,19,"are the phones in operational","are the phones in thge bedroom operational",0.5,500.0,1500.0,espeak,mp3
+3,20,"are the in the kitchen not working","are the freezers in the kitchen not working",0.5,500.0,1500.0,google,mp3
+3,21,"are the bedroom","are the bedroom burglar alarms turned off",0.5,500.0,1500.0,flite,mp3
+3,22,"where is alex","where is alice",0.5,500.0,1500.0,flite,mp3
+3,23,"in the kitchen","is someone cooking in the kitchen",0.5,500.0,1500.0,espeak,mp3
+3,24,"is the stove in the kitchen working correctly","is the stove in the kitchen working correctly",0.5,500.0,1500.0,google,mp3
+3,25,"on","are all the tvs on",0.5,500.0,1500.0,espeak,mp3
+3,26,"is the in the bedroom","is the air blowing in the bedroom",0.3,300.0,2500.0,google,mp3
+3,27,"are the lights still on in the attic","are the lights still on in the office",0.3,300.0,2500.0,flite,mp3
+3,28,"is the microwave in the kitchen working okay","is the microwave in the kitchen working okay",0.3,300.0,2500.0,espeak,mp3
+3,29,"is it","is the camera system active",0.3,300.0,2500.0,flite,mp3
+4,0,"it will from home","is the light in the hallway turned on",0.3,300.0,2500.0,flite,mp3
+4,1,"and we me","can you tell me if i left the phone on that is in the bedroom",0.3,300.0,2500.0,espeak,mp3
+4,2,"","what do the sensors in the kitchen currently read",0.3,300.0,2500.0,flite,mp3
+4,3,"what","what do all the sensors in the livingroom read right now",0.3,300.0,2500.0,espeak,mp3
+4,4,"is the telephone located in the room not functioning well","is the telephone located in the dinning room not functioning well",0.4,400.0,2000.0,google,mp3
+4,5,"are the","are the phones in the bedroom in use",0.4,400.0,2000.0,espeak,mp3
+4,6,"oh","are all of the thermostats running",0.4,400.0,2000.0,google,mp3
+4,7,"","is the phone in the living room off",0.4,400.0,2000.0,flite,mp3
+4,8,"light in the dark","is the light in the bathroom left on",0.4,400.0,2000.0,flite,mp3
+4,9,"is my not working","is the bedroom of working",0.4,400.0,2000.0,espeak,mp3
+4,10,"why didnt you fire alarm when the smoke","why didn't the fire alarm in the gym detect smoke",0.4,400.0,2000.0,google,mp3
+4,11,"","are the lights on in the gym",0.4,400.0,2000.0,espeak,mp3
+4,12,"if the office phone is working","check if the office phone is working",0.4,400.0,2000.0,google,mp3
+4,13,"is the","is the hallway tv working asi it should be",0.3,300.0,2500.0,flite,mp3
+4,14,"are the alarms in the office turned off","are the alarms in the office turned off",0.4,400.0,2000.0,google,mp3
+4,15,"","have the televisions in the living room been switched on",0.5,500.0,1500.0,espeak,mp3
+4,16,"whats the current temperature in the living room","what's the current temperature in the living room",0.3,300.0,2500.0,google,mp3
+4,17,"the","what does the living room thermometer show",0.5,500.0,1500.0,espeak,mp3
+4,18,"if the office phone","is the office phone broken",0.5,500.0,1500.0,google,mp3
+4,19,"are the phones in","are the phones in thge bedroom operational",0.5,500.0,1500.0,espeak,mp3
+4,20,"are the speakers in the kitchen not working","are the freezers in the kitchen not working",0.5,500.0,1500.0,google,mp3
+4,21,"are the","are the bedroom burglar alarms turned off",0.5,500.0,1500.0,flite,mp3
+4,22,"","where is alice",0.5,500.0,1500.0,flite,mp3
+4,23,"","is someone cooking in the kitchen",0.5,500.0,1500.0,espeak,mp3
+4,24,"is the in the kitchen working correctly","is the stove in the kitchen working correctly",0.5,500.0,1500.0,google,mp3
+4,25,"","are all the tvs on",0.5,500.0,1500.0,espeak,mp3
+4,26,"is the air blowing in the bedroom","is the air blowing in the bedroom",0.3,300.0,2500.0,google,mp3
+4,27,"are the lights on in the office","are the lights still on in the office",0.3,300.0,2500.0,flite,mp3
+4,28,"is the microwave in the kitchen working ok","is the microwave in the kitchen working okay",0.3,300.0,2500.0,espeak,mp3
+4,29,"is the camera connected","is the camera system active",0.3,300.0,2500.0,flite,mp3
+5,0,"people like","is the light in the hallway turned on",0.3,300.0,2500.0,flite,mp3
+5,1,"","can you tell me if i left the phone on that is in the bedroom",0.3,300.0,2500.0,espeak,mp3
+5,2,"in the kitchen turned around","what do the sensors in the kitchen currently read",0.3,300.0,2500.0,flite,mp3
+5,3,"","what do all the sensors in the livingroom read right now",0.3,300.0,2500.0,espeak,mp3
+5,4,"located not functioning well","is the telephone located in the dinning room not functioning well",0.4,400.0,2000.0,google,mp3
+5,5,"you","are the phones in the bedroom in use",0.4,400.0,2000.0,espeak,mp3
+5,6,"running","are all of the thermostats running",0.4,400.0,2000.0,google,mp3
+5,7,"very much","is the phone in the living room off",0.4,400.0,2000.0,flite,mp3
+5,8,"light in the dark","is the light in the bathroom left on",0.4,400.0,2000.0,flite,mp3
+5,9,"not working","is the bedroom of working",0.4,400.0,2000.0,espeak,mp3
+5,10,"why do you fire alarm smoke","why didn't the fire alarm in the gym detect smoke",0.4,400.0,2000.0,google,mp3
+5,11,"","are the lights on in the gym",0.4,400.0,2000.0,espeak,mp3
+5,12,"is working","check if the office phone is working",0.4,400.0,2000.0,google,mp3
+5,13,"it should be","is the hallway tv working asi it should be",0.3,300.0,2500.0,flite,mp3
+5,14,"alarm in the office turned off","are the alarms in the office turned off",0.4,400.0,2000.0,google,mp3
+5,15,"","have the televisions in the living room been switched on",0.5,500.0,1500.0,espeak,mp3
+5,16,"temperature in the living room","what's the current temperature in the living room",0.3,300.0,2500.0,google,mp3
+5,17,"home","what does the living room thermometer show",0.5,500.0,1500.0,espeak,mp3
+5,18,"","is the office phone broken",0.5,500.0,1500.0,google,mp3
+5,19,"home operational","are the phones in thge bedroom operational",0.5,500.0,1500.0,espeak,mp3
+5,20,"heater not working","are the freezers in the kitchen not working",0.5,500.0,1500.0,google,mp3
+5,21,"bedroom alarm turned off","are the bedroom burglar alarms turned off",0.5,500.0,1500.0,flite,mp3
+5,22,"wearing out","where is alice",0.5,500.0,1500.0,flite,mp3
+5,23,"pager","is someone cooking in the kitchen",0.5,500.0,1500.0,espeak,mp3
+5,24,"isnt working correctly","is the stove in the kitchen working correctly",0.5,500.0,1500.0,google,mp3
+5,25,"","are all the tvs on",0.5,500.0,1500.0,espeak,mp3
+5,26,"is the air blowing in the bedroom","is the air blowing in the bedroom",0.3,300.0,2500.0,google,mp3
+5,27,"are the lights still on in the office","are the lights still on in the office",0.3,300.0,2500.0,flite,mp3
+5,28,"is the microwave in the kitchen working ok","is the microwave in the kitchen working okay",0.3,300.0,2500.0,espeak,mp3
+5,29,"is the system active","is the camera system active",0.3,300.0,2500.0,flite,mp3
+6,0,"is the phone in the living room ringing","is the phone in the living room ringing",0.3,300.0,2500.0,espeak,mp3
+6,1,"","are motion detectors on in the office",0.3,300.0,2500.0,espeak,mp3
+6,2,"is the alarm activated in the restroom","is the alarm activated in the restroom",0.3,300.0,2500.0,google,mp3
+6,3,"can you check the smoke detector","can you check the smoke detector in the hallway to be sure it's on",0.3,300.0,2500.0,flite,mp3
+6,4,"is the microwave still on","is the miscrowave still on",0.4,400.0,2000.0,google,mp3
+6,5,"is the not working","is the phone not working",0.4,400.0,2000.0,flite,mp3
+6,6,"","what are the gym sensor readings",0.3,300.0,2500.0,espeak,mp3
+6,7,"is the radio in the or not","is the radio in the katicken off",0.4,400.0,2000.0,flite,mp3
+6,8,"is the hallway smoke detector operating","is the hallway smoke detector operating",0.4,400.0,2000.0,google,mp3
+6,9,"do you remember whether the light in the is still on","do you remember whether the light bulb in the hallway is still on",0.3,300.0,2500.0,flite,mp3
+6,10,"do you know whether the phone in the bathroom is turned off","do you know whether the phone in the bathroom is turned off",0.4,400.0,2000.0,google,mp3
+6,11,"the sensors in my hallway are working properly","the sensors in my hallway are working properly correct",0.4,400.0,2000.0,flite,mp3"
+6,12,"does the clock in the hallway show the right time","does the clock in the hallway show the right time",0.4,400.0,2000.0,google,mp3
+6,13,"can you tell me the kitchen temperature","can you tell me the kitchen temperature",0.4,400.0,2000.0,flite,mp3
+6,14,"is the microwave off","is the microwave off right now",0.4,400.0,2000.0,espeak,mp3
+6,15,"is the air conditioner on","is the home office air conditioner on",0.5,500.0,1500.0,espeak,mp3
+6,16,"what time is it on the clock in the hallway","what time is it on the clock in the hallway",0.5,500.0,1500.0,google,mp3
+6,17,"can you tell me if the","could you tell me if the home office's tvs are turned off",0.5,500.0,1500.0,flite,mp3
+6,18,"is the clock in the hallway working correctly","is the clock in the hallway working correctly",0.5,500.0,1500.0,google,mp3
+6,19,"is there a in the","is there a fire in the gym",0.5,500.0,1500.0,flite,mp3
+6,20,"can you tell me what the is","could you tell me what the kitchen's sensors say",0.5,500.0,1500.0,espeak,mp3
+6,21,"will you let me know if the telephone in the turns on","will you let me know if the telephones in the office are turned on",0.5,500.0,1500.0,flite,mp3
+6,22,"is the air conditioner","is the window air conditioner in the kitchen busted",0.5,500.0,1500.0,espeak,mp3
+6,23,"does the air conditioner in the kitchen work","does the air conditioner in the kitchen work",0.5,500.0,1500.0,flite,mp3
+6,24,"are the","are the gym alarms working",0.5,500.0,1500.0,google,mp3
+6,25,"is the dining room temperature sensor working","is the dining room temperature sensor working",0.5,500.0,1500.0,flite,mp3
+6,26,"are the bedroom air conditioners turned on","are the bedroom air conditioners turned on",0.3,300.0,2500.0,espeak,mp3
+6,27,"is the in hallway","is humidifier in hallway off",0.3,300.0,2500.0,google,mp3
+6,28,"can you turn any of the on","can you turn any of the tvs on",0.3,300.0,2500.0,espeak,mp3
+6,29,"are the temperature gauges operational in the gym","are the temperature gauges operational in the gym",0.3,300.0,2500.0,google,mp3
+7,0,"","is the phone in the living room ringing",0.3,300.0,2500.0,espeak,mp3
+7,1,"motion detector","are motion detectors on in the office",0.3,300.0,2500.0,espeak,mp3
+7,2,"in the restroom","is the alarm activated in the restroom",0.3,300.0,2500.0,google,mp3
+7,3,"can you check the smoke detector in the hallway to be sure its on","can you check the smoke detector in the hallway to be sure it's on",0.3,300.0,2500.0,flite,mp3
+7,4,"","is the miscrowave still on",0.4,400.0,2000.0,google,mp3
+7,5,"not working","is the phone not working",0.4,400.0,2000.0,flite,mp3
+7,6,"","what are the gym sensor readings",0.3,300.0,2500.0,espeak,mp3
+7,7,"the radio in the closet","is the radio in the katicken off",0.4,400.0,2000.0,flite,mp3
+7,8,"is the hallway smoke detector operating","is the hallway smoke detector operating",0.4,400.0,2000.0,google,mp3
+7,9,"do you remember","do you remember whether the light bulb in the hallway is still on",0.3,300.0,2500.0,flite,mp3
+7,10,"do you know whether the phone in the bathroom is turned on","do you know whether the phone in the bathroom is turned off",0.4,400.0,2000.0,google,mp3
+7,11,"hallway working properly","the sensors in my hallway are working properly correct",0.4,400.0,2000.0,flite,mp3"
+7,12,"did the clock in the hallway show the right time","does the clock in the hallway show the right time",0.4,400.0,2000.0,google,mp3
+7,13,"can you tell me the kitchen temperature","can you tell me the kitchen temperature",0.4,400.0,2000.0,flite,mp3
+7,14,"did the","is the microwave off right now",0.4,400.0,2000.0,espeak,mp3
+7,15,"is air conditioner on","is the home office air conditioner on",0.5,500.0,1500.0,espeak,mp3
+7,16,"what time is it on the clock in the hallway","what time is it on the clock in the hallway",0.5,500.0,1500.0,google,mp3
+7,17,"could you tell me if","could you tell me if the home office's tvs are turned off",0.5,500.0,1500.0,flite,mp3
+7,18,"is the clock in the hallway","is the clock in the hallway working correctly",0.5,500.0,1500.0,google,mp3
+7,19,"","is there a fire in the gym",0.5,500.0,1500.0,flite,mp3
+7,20,"tell me","could you tell me what the kitchen's sensors say",0.5,500.0,1500.0,espeak,mp3
+7,21,"will you let me know turns on","will you let me know if the telephones in the office are turned on",0.5,500.0,1500.0,flite,mp3
+7,22,"window air conditioner in the kitchen working","is the window air conditioner in the kitchen busted",0.5,500.0,1500.0,espeak,mp3
+7,23,"does the air conditioner in the kitchen work","does the air conditioner in the kitchen work",0.5,500.0,1500.0,flite,mp3
+7,24,"","are the gym alarms working",0.5,500.0,1500.0,google,mp3
+7,25,"is the dining room temperature working","is the dining room temperature sensor working",0.5,500.0,1500.0,flite,mp3
+7,26,"air conditioner turned on","are the bedroom air conditioners turned on",0.3,300.0,2500.0,espeak,mp3
+7,27,"is the humidifier in hallway off","is humidifier in hallway off",0.3,300.0,2500.0,google,mp3
+7,28,"","can you turn any of the tvs on",0.3,300.0,2500.0,espeak,mp3
+7,29,"temperature operational gym","are the temperature gauges operational in the gym",0.3,300.0,2500.0,google,mp3
+8,0,"living room","is the phone in the living room ringing",0.3,300.0,2500.0,espeak,mp3
+8,1,"","are motion detectors on in the office",0.3,300.0,2500.0,espeak,mp3
+8,2,"is the alarm activated in the restroom","is the alarm activated in the restroom",0.3,300.0,2500.0,google,mp3
+8,3,"can you check the smoke detector in the hallway to be sure its on","can you check the smoke detector in the hallway to be sure it's on",0.3,300.0,2500.0,flite,mp3
+8,4,"is the microwave still on","is the miscrowave still on",0.4,400.0,2000.0,google,mp3
+8,5,"is the phone not working","is the phone not working",0.4,400.0,2000.0,flite,mp3
+8,6,"","what are the gym sensor readings",0.3,300.0,2500.0,espeak,mp3
+8,7,"is the radio in the","is the radio in the katicken off",0.4,400.0,2000.0,flite,mp3
+8,8,"is the hallway","is the hallway smoke detector operating",0.4,400.0,2000.0,google,mp3
+8,9,"do you remember whether the light in the hallway is still on","do you remember whether the light bulb in the hallway is still on",0.3,300.0,2500.0,flite,mp3
+8,10,"do you know whether the phone in the bathroom is turned off","do you know whether the phone in the bathroom is turned off",0.4,400.0,2000.0,google,mp3
+8,11,"the sensors in my hallway are working properly","the sensors in my hallway are working properly correct",0.4,400.0,2000.0,flite,mp3"
+8,12,"does the clock in the hallway show the right time","does the clock in the hallway show the right time",0.4,400.0,2000.0,google,mp3
+8,13,"can you tell me the kitchen temperature","can you tell me the kitchen temperature",0.4,400.0,2000.0,flite,mp3
+8,14,"does the microwave","is the microwave off right now",0.4,400.0,2000.0,espeak,mp3
+8,15,"is the home office air conditioner on","is the home office air conditioner on",0.5,500.0,1500.0,espeak,mp3
+8,16,"what time is it on the clock in the hallway","what time is it on the clock in the hallway",0.5,500.0,1500.0,google,mp3
+8,17,"could you tell me if the","could you tell me if the home office's tvs are turned off",0.5,500.0,1500.0,flite,mp3
+8,18,"is the clock in the hallway working correctly","is the clock in the hallway working correctly",0.5,500.0,1500.0,google,mp3
+8,19,"prepare to file images","is there a fire in the gym",0.5,500.0,1500.0,flite,mp3
+8,20,"","could you tell me what the kitchen's sensors say",0.5,500.0,1500.0,espeak,mp3
+8,21,"will you let me know if the telephone in the turns on","will you let me know if the telephones in the office are turned on",0.5,500.0,1500.0,flite,mp3
+8,22,"is the window air conditioner in the kitchen working","is the window air conditioner in the kitchen busted",0.5,500.0,1500.0,espeak,mp3
+8,23,"does the air conditioner in the kitchen work","does the air conditioner in the kitchen work",0.5,500.0,1500.0,flite,mp3
+8,24,"are the gym alarms working","are the gym alarms working",0.5,500.0,1500.0,google,mp3
+8,25,"is the dining room temperature sensor working","is the dining room temperature sensor working",0.5,500.0,1500.0,flite,mp3
+8,26,"are their any air conditioners turned on","are the bedroom air conditioners turned on",0.3,300.0,2500.0,espeak,mp3
+8,27,"is humidifier in hallway off","is humidifier in hallway off",0.3,300.0,2500.0,google,mp3
+8,28,"can you turn any of the tv on","can you turn any of the tvs on",0.3,300.0,2500.0,espeak,mp3
+8,29,"are the temperature gauges operational in the gym","are the temperature gauges operational in the gym",0.3,300.0,2500.0,google,mp3
+9,0,"temperature","is the temperature being monitored in the bathroom",0.3,300.0,2500.0,flite,mp3
+9,1,"working","did the sensors in the hall stop working",0.3,300.0,2500.0,espeak,mp3
+9,2,"","are the speakers in the home office on",0.3,300.0,2500.0,google,mp3
+9,3,"working","can you check to see if the kitchen ac is working",0.3,300.0,2500.0,espeak,mp3
+9,4,"is the humidifier running in the home office","is the humidifier running in the home office",0.4,400.0,2000.0,google,mp3
+9,5,"can you call me from the dining room phone","can you call me from the dining room phone",0.4,400.0,2000.0,flite,mp3
+9,6,"where are the in your household","where are the tvs in your household",0.4,400.0,2000.0,google,mp3
+9,7,"what temperature","what's the office temperature",0.4,400.0,2000.0,flite,mp3
+9,8,"","are the air machines in the living room broke",0.4,400.0,2000.0,google,mp3
+9,9,"","is the hallway clock right",0.4,400.0,2000.0,espeak,mp3
+9,10,"is the radio in the office","is the radio in the office on",0.4,400.0,2000.0,google,mp3
+9,11,"alarms","are the alarms in the office turned on",0.3,300.0,2500.0,flite,mp3
+9,12,"are the lightbulbs in the hallway using electricity","are the light bulbs in the hallway using electricity",0.4,400.0,2000.0,google,mp3
+9,13,"is the living room telephone working properly","is the dinning room telephone working properly",0.4,400.0,2000.0,flite,mp3
+9,14,"are the motion detectors in the bedroom powered on","are the motion detectors in the bedroom powered on",0.4,400.0,2000.0,google,mp3
+9,15,"","is the thermometer getting a reading in the living room",0.5,500.0,1500.0,espeak,mp3
+9,16,"are the radios in the home office working right","are the radios in the home office working right",0.5,500.0,1500.0,google,mp3
+9,17,"","can you check the kitchen grill",0.5,500.0,1500.0,espeak,mp3
+9,18,"what is the status of the security alarm in the home office","what is the status of the security alarm in the home office.",0.5,500.0,1500.0,google,mp3
+9,19,"any problems with the thermometer in the hallway","any problems with the thermometer in the hallway",0.5,500.0,1500.0,flite,mp3
+9,20,"is the humidifier office","is the humidifier plugged in and on in the office",0.5,500.0,1500.0,google,mp3
+9,21,"something","is there something wrong with the humidifiers in the house",0.5,500.0,1500.0,flite,mp3
+9,22,"is there something wrong with the humidifier in the","is there something wrong with the humidifier in the bedroom",0.5,500.0,1500.0,espeak,mp3
+9,23,"","does the smoke detector in the bathroom work",0.5,500.0,1500.0,espeak,mp3
+9,24,"what do the thermometers in the bathroom say","what do the thermometers in the bathroom say",0.5,500.0,1500.0,google,mp3
+9,25,"is the time on the clock in the kitchen correct","is the time on the clock in the kitchen correct",0.5,500.0,1500.0,flite,mp3
+9,26,"","are the hallway's humidifiers off",0.3,300.0,2500.0,espeak,mp3
+9,27,"is anyone using the phone in the living room","is anyone using the phones in the living room",0.3,300.0,2500.0,flite,mp3
+9,28,"","is there anyone in the kitchen listening to the radio",0.3,300.0,2500.0,espeak,mp3
+9,29,"is the kitchen telephone working correctly","is the kitchen telephone working correctly",0.3,300.0,2500.0,google,mp3
+10,0,"if the temperature bedroom","is the temperature being monitored in the bathroom",0.3,300.0,2500.0,flite,mp3
+10,1,"working","did the sensors in the hall stop working",0.3,300.0,2500.0,espeak,mp3
+10,2,"","are the speakers in the home office on",0.3,300.0,2500.0,google,mp3
+10,3,"working","can you check to see if the kitchen ac is working",0.3,300.0,2500.0,espeak,mp3
+10,4,"is a humidifier running in the home office","is the humidifier running in the home office",0.4,400.0,2000.0,google,mp3
+10,5,"can you call me from the dining room phone","can you call me from the dining room phone",0.4,400.0,2000.0,flite,mp3
+10,6,"where are the tvs at in your household","where are the tvs in your household",0.4,400.0,2000.0,google,mp3
+10,7,"whats the hottest temperature","what's the office temperature",0.4,400.0,2000.0,flite,mp3
+10,8,"are the air machines in the living room broke","are the air machines in the living room broke",0.4,400.0,2000.0,google,mp3
+10,9,"","is the hallway clock right",0.4,400.0,2000.0,espeak,mp3
+10,10,"is the radio in the office on","is the radio in the office on",0.4,400.0,2000.0,google,mp3
+10,11,"are the in the office turned on","are the alarms in the office turned on",0.3,300.0,2500.0,flite,mp3
+10,12,"are the light bulbs in the hallway using electricity","are the light bulbs in the hallway using electricity",0.4,400.0,2000.0,google,mp3
+10,13,"is the dining room telephone working properly","is the dinning room telephone working properly",0.4,400.0,2000.0,flite,mp3
+10,14,"are the nightstands in the bedroom powered on","are the motion detectors in the bedroom powered on",0.4,400.0,2000.0,google,mp3
+10,15,"","is the thermometer getting a reading in the living room",0.5,500.0,1500.0,espeak,mp3
+10,16,"are the radios in the home office working right","are the radios in the home office working right",0.5,500.0,1500.0,google,mp3
+10,17,"","can you check the kitchen grill",0.5,500.0,1500.0,espeak,mp3
+10,18,"alarm in the home office","what is the status of the security alarm in the home office.",0.5,500.0,1500.0,google,mp3
+10,19,"any problems with the hallway","any problems with the thermometer in the hallway",0.5,500.0,1500.0,flite,mp3
+10,20,"is the humidifier plugged in and on in the office","is the humidifier plugged in and on in the office",0.5,500.0,1500.0,google,mp3
+10,21,"if theres something on you","is there something wrong with the humidifiers in the house",0.5,500.0,1500.0,flite,mp3
+10,22,"is there something wrong with the humidifier in the bedroom","is there something wrong with the humidifier in the bedroom",0.5,500.0,1500.0,espeak,mp3
+10,23,"does the smoke detector in the bathroom work","does the smoke detector in the bathroom work",0.5,500.0,1500.0,espeak,mp3
+10,24,"putting the thermometers in the bathroom stall","what do the thermometers in the bathroom say",0.5,500.0,1500.0,google,mp3
+10,25,"is the time on the clock in the kitchen correct","is the time on the clock in the kitchen correct",0.5,500.0,1500.0,flite,mp3
+10,26,"","are the hallway's humidifiers off",0.3,300.0,2500.0,espeak,mp3
+10,27,"is anyone using the phone in the living room","is anyone using the phones in the living room",0.3,300.0,2500.0,flite,mp3
+10,28,"","is there anyone in the kitchen listening to the radio",0.3,300.0,2500.0,espeak,mp3
+10,29,"is the kitchen telephone working properly","is the kitchen telephone working correctly",0.3,300.0,2500.0,google,mp3
+11,0,"temperature","is the temperature being monitored in the bathroom",0.3,300.0,2500.0,flite,mp3
+11,1,"use","did the sensors in the hall stop working",0.3,300.0,2500.0,espeak,mp3
+11,2,"home office","are the speakers in the home office on",0.3,300.0,2500.0,google,mp3
+11,3,"working","can you check to see if the kitchen ac is working",0.3,300.0,2500.0,espeak,mp3
+11,4,"humidifier running in the home offfice","is the humidifier running in the home office",0.4,400.0,2000.0,google,mp3
+11,5,"can you call me from the dining room phone","can you call me from the dining room phone",0.4,400.0,2000.0,flite,mp3
+11,6,"where are the in your household","where are the tvs in your household",0.4,400.0,2000.0,google,mp3
+11,7,"whats the temperature","what's the office temperature",0.4,400.0,2000.0,flite,mp3
+11,8,"are the in the living room","are the air machines in the living room broke",0.4,400.0,2000.0,google,mp3
+11,9,"","is the hallway clock right",0.4,400.0,2000.0,espeak,mp3
+11,10,"is the radio in the office on","is the radio in the office on",0.4,400.0,2000.0,google,mp3
+11,11,"in the office turned on","are the alarms in the office turned on",0.3,300.0,2500.0,flite,mp3
+11,12,"are the light bulbs in the hallway using electricity","are the light bulbs in the hallway using electricity",0.4,400.0,2000.0,google,mp3
+11,13,"working","is the dinning room telephone working properly",0.4,400.0,2000.0,flite,mp3
+11,14,"are the motion detectors in the bedroom powered on","are the motion detectors in the bedroom powered on",0.4,400.0,2000.0,google,mp3
+11,15,"","is the thermometer getting a reading in the living room",0.5,500.0,1500.0,espeak,mp3
+11,16,"are the radios in the home office","are the radios in the home office working right",0.5,500.0,1500.0,google,mp3
+11,17,"","can you check the kitchen grill",0.5,500.0,1500.0,espeak,mp3
+11,18,"what is the status of the security alarm in the home office","what is the status of the security alarm in the home office.",0.5,500.0,1500.0,google,mp3
+11,19,"any problems with the in the hallway","any problems with the thermometer in the hallway",0.5,500.0,1500.0,flite,mp3
+11,20,"is the humidifier plugged in and on in the office","is the humidifier plugged in and on in the office",0.5,500.0,1500.0,google,mp3
+11,21,"is there something wrong with the humidifier in the","is there something wrong with the humidifiers in the house",0.5,500.0,1500.0,flite,mp3
+11,22,"is there something wrong with the humidifier in the bedroom","is there something wrong with the humidifier in the bedroom",0.5,500.0,1500.0,espeak,mp3
+11,23,"","does the smoke detector in the bathroom work",0.5,500.0,1500.0,espeak,mp3
+11,24,"what do the thermometers in the bathroom say","what do the thermometers in the bathroom say",0.5,500.0,1500.0,google,mp3
+11,25,"is the time on the clock in the kitchen correct","is the time on the clock in the kitchen correct",0.5,500.0,1500.0,flite,mp3
+11,26,"on the","are the hallway's humidifiers off",0.3,300.0,2500.0,espeak,mp3
+11,27,"is anyone using the phone in the living room","is anyone using the phones in the living room",0.3,300.0,2500.0,flite,mp3
+11,28,"is","is there anyone in the kitchen listening to the radio",0.3,300.0,2500.0,espeak,mp3
+11,29,"is the kitchen telephone working correctly","is the kitchen telephone working correctly",0.3,300.0,2500.0,google,mp3
+12,0,"leave the lights in the on","did i leave the lights in the gym on",0.3,300.0,2500.0,flite,mp3
+12,1,"","how warm is our hallway",0.3,300.0,2500.0,flite,mp3
+12,2,"working well","are the kitchen appliances working well",0.3,300.0,2500.0,espeak,mp3
+12,3,"is the radio in the home office working properly","is the radio in the home office working properly",0.3,300.0,2500.0,google,mp3
+12,4,"","are the clock's off inside",0.4,400.0,2000.0,espeak,mp3
+12,5,"is the dining room temperature center ok","is the dining room temperature sensor ok",0.4,400.0,2000.0,google,mp3
+12,6,"bathroom installed correctly","is the smoke detector in the bathroom installed correctly",0.4,400.0,2000.0,espeak,mp3
+12,7,"can i make a smoothie in the blender in the kitchen","can i make a smoothie in the blender in the kitchen",0.4,400.0,2000.0,google,mp3
+12,8,"is there something wrong with the microwave in the kitchen","is there something wrong with the microwave in the kitchen",0.4,400.0,2000.0,espeak,mp3
+12,9,"not working","are the phones in kitchen not working",0.4,400.0,2000.0,flite,mp3
+12,10,"in the player in the bedroom","is the tv playing in the bedroom",0.4,400.0,2000.0,espeak,mp3
+12,11,"can you turn off the light","can you turn off the lights",0.4,400.0,2000.0,google,mp3
+12,12,"what temperature is the refrigerator","what temperature is the refrigerator",0.4,400.0,2000.0,espeak,mp3
+12,13,"is the cat sleeping","is the cat sleepy",0.4,400.0,2000.0,google,mp3
+12,14,"is someone making the","is someone using the fan in the living room",0.4,400.0,2000.0,flite,mp3
+12,15,"is","is the toast burnt",0.5,500.0,1500.0,flite,mp3
+12,16,"","how much snow are we getting",0.5,500.0,1500.0,espeak,mp3
+12,17,"the telephone in the hallway","the telephones in the hallway are they properly functioning",0.5,500.0,1500.0,google,mp3
+12,18,"working","did the hallway alarms quit working",0.5,500.0,1500.0,espeak,mp3
+12,19,"is the alarm off in the bathroom","is the alarm off in the bathroom",0.5,500.0,1500.0,google,mp3
+12,20,"smoke detectors","are the hallways smoke detectors on or off",0.3,300.0,2500.0,flite,mp3
+12,21,"is the in the bathroom","is the phone in the bathroom off or on",0.5,500.0,1500.0,google,mp3
+12,22,"temperature in the dining room","what is the real temperature in the dining room",0.5,500.0,1500.0,flite,mp3
+12,23,"is the temperature in the hallway correct","is the temperature in the hallway correct",0.3,300.0,2500.0,google,mp3
+12,24,"","are the gym lights still on",0.5,500.0,1500.0,espeak,mp3
+12,25,"is the television in the bedroom off","is the television in the bedroom off",0.5,500.0,1500.0,google,mp3
+12,26,"did leave the tv on in the kitchen","did i leave the tv on in the kitchen",0.3,300.0,2500.0,flite,mp3
+12,27,"did someone leave the on in the office","did someone leave the radio on in the office",0.3,300.0,2500.0,espeak,mp3
+12,28,"is someone playing the radio in the kitchen","is someone playing the radio in the kitchen",0.3,300.0,2500.0,flite,mp3
+12,29,"are the thermometer not reading","are the house thermometers operating at this point in time",0.3,300.0,2500.0,espeak,mp3
+13,0,"","did i leave the lights in the gym on",0.3,300.0,2500.0,flite,mp3
+13,1,"","how warm is our hallway",0.3,300.0,2500.0,flite,mp3
+13,2,"conversations are learned","are the kitchen appliances working well",0.3,300.0,2500.0,espeak,mp3
+13,3,"is the radio in the home office working properly","is the radio in the home office working properly",0.3,300.0,2500.0,google,mp3
+13,4,"in time","are the clock's off inside",0.4,400.0,2000.0,espeak,mp3
+13,5,"is the dining room ok","is the dining room temperature sensor ok",0.4,400.0,2000.0,google,mp3
+13,6,"bathroom","is the smoke detector in the bathroom installed correctly",0.4,400.0,2000.0,espeak,mp3
+13,7,"can i make a smoothie in the blender in the kitchen","can i make a smoothie in the blender in the kitchen",0.4,400.0,2000.0,google,mp3
+13,8,"is there something wrong with the microwave in the kitchen","is there something wrong with the microwave in the kitchen",0.4,400.0,2000.0,espeak,mp3
+13,9,"not looking","are the phones in kitchen not working",0.4,400.0,2000.0,flite,mp3
+13,10,"in the mailroom","is the tv playing in the bedroom",0.4,400.0,2000.0,espeak,mp3
+13,11,"can you turn out the light","can you turn off the lights",0.4,400.0,2000.0,google,mp3
+13,12,"refrigerator","what temperature is the refrigerator",0.4,400.0,2000.0,espeak,mp3
+13,13,"is the cop","is the cat sleepy",0.4,400.0,2000.0,google,mp3
+13,14,"is someone using the phone living room","is someone using the fan in the living room",0.4,400.0,2000.0,flite,mp3
+13,15,"is it","is the toast burnt",0.5,500.0,1500.0,flite,mp3
+13,16,"","how much snow are we getting",0.5,500.0,1500.0,espeak,mp3
+13,17,"the telephone in the hallway","the telephones in the hallway are they properly functioning",0.5,500.0,1500.0,google,mp3
+13,18,"home alone","did the hallway alarms quit working",0.5,500.0,1500.0,espeak,mp3
+13,19,"is the alarm off in the bathroom","is the alarm off in the bathroom",0.5,500.0,1500.0,google,mp3
+13,20,"","are the hallways smoke detectors on or off",0.3,300.0,2500.0,flite,mp3
+13,21,"is the phone in the bathroom","is the phone in the bathroom off or on",0.5,500.0,1500.0,google,mp3
+13,22,"tempurture in the dining room","what is the real temperature in the dining room",0.5,500.0,1500.0,flite,mp3
+13,23,"is the temperature in the hallway correct","is the temperature in the hallway correct",0.3,300.0,2500.0,google,mp3
+13,24,"","are the gym lights still on",0.5,500.0,1500.0,espeak,mp3
+13,25,"is the television in the bedroom off","is the television in the bedroom off",0.5,500.0,1500.0,google,mp3
+13,26,"the tv on in the kitchen","did i leave the tv on in the kitchen",0.3,300.0,2500.0,flite,mp3
+13,27,"did someone leave the tv on in the","did someone leave the radio on in the office",0.3,300.0,2500.0,espeak,mp3
+13,28,"did someone play the radio in the kitchen","is someone playing the radio in the kitchen",0.3,300.0,2500.0,flite,mp3
+13,29,"thermometer","are the house thermometers operating at this point in time",0.3,300.0,2500.0,espeak,mp3
+14,0,"did i leave the light","did i leave the lights in the gym on",0.3,300.0,2500.0,flite,mp3
+14,1,"","how warm is our hallway",0.3,300.0,2500.0,flite,mp3
+14,2,"on the case of","are the kitchen appliances working well",0.3,300.0,2500.0,espeak,mp3
+14,3,"is the radio in the home office working properly","is the radio in the home office working properly",0.3,300.0,2500.0,google,mp3
+14,4,"on the floor is the kurig","are the clock's off inside",0.4,400.0,2000.0,espeak,mp3
+14,5,"is the dining room temperature ok","is the dining room temperature sensor ok",0.4,400.0,2000.0,google,mp3
+14,6,"","is the smoke detector in the bathroom installed correctly",0.4,400.0,2000.0,espeak,mp3
+14,7,"","can i make a smoothie in the blender in the kitchen",0.4,400.0,2000.0,google,mp3
+14,8,"is there something wrong","is there something wrong with the microwave in the kitchen",0.4,400.0,2000.0,espeak,mp3
+14,9,"is not working","are the phones in kitchen not working",0.4,400.0,2000.0,flite,mp3
+14,10,"","is the tv playing in the bedroom",0.4,400.0,2000.0,espeak,mp3
+14,11,"can you turn off the lights","can you turn off the lights",0.4,400.0,2000.0,google,mp3
+14,12,"","what temperature is the refrigerator",0.4,400.0,2000.0,espeak,mp3
+14,13,"is the blinking","is the cat sleepy",0.4,400.0,2000.0,google,mp3
+14,14,"is someone using the","is someone using the fan in the living room",0.4,400.0,2000.0,flite,mp3
+14,15,"","is the toast burnt",0.5,500.0,1500.0,flite,mp3
+14,16,"","how much snow are we getting",0.5,500.0,1500.0,espeak,mp3
+14,17,"in the hallway of their property","the telephones in the hallway are they properly functioning",0.5,500.0,1500.0,google,mp3
+14,18,"alone","did the hallway alarms quit working",0.5,500.0,1500.0,espeak,mp3
+14,19,"","is the alarm off in the bathroom",0.5,500.0,1500.0,google,mp3
+14,20,"are there hallway smoke detectors on the wall","are the hallways smoke detectors on or off",0.3,300.0,2500.0,flite,mp3
+14,21,"is the bathroom","is the phone in the bathroom off or on",0.5,500.0,1500.0,google,mp3
+14,22,"you have a temperature in the dining room","what is the real temperature in the dining room",0.5,500.0,1500.0,flite,mp3
+14,23,"is the temperature in the hallway correct","is the temperature in the hallway correct",0.3,300.0,2500.0,google,mp3
+14,24,"","are the gym lights still on",0.5,500.0,1500.0,espeak,mp3
+14,25,"is the television in the bedroom on","is the television in the bedroom off",0.5,500.0,1500.0,google,mp3
+14,26,"did i leave the tv on in the kitchen","did i leave the tv on in the kitchen",0.3,300.0,2500.0,flite,mp3
+14,27,"","did someone leave the radio on in the office",0.3,300.0,2500.0,espeak,mp3
+14,28,"is someone playing the radio in the kitchen","is someone playing the radio in the kitchen",0.3,300.0,2500.0,flite,mp3
+14,29,"","are the house thermometers operating at this point in time",0.3,300.0,2500.0,espeak,mp3
+15,0,"","is the phone in the living room ringing",0.3,300.0,2500.0,espeak,mp3
+15,1,"","are motion detectors on in the office",0.3,300.0,2500.0,espeak,mp3
+15,2,"masterbated in the restroom","is the alarm activated in the restroom",0.3,300.0,2500.0,google,mp3
+15,3,"","can you check the smoke detector in the hallway to be sure it's on",0.3,300.0,2500.0,flite,mp3
+15,4,"","is the miscrowave still on",0.4,400.0,2000.0,google,mp3
+15,5,"","is the phone not working",0.4,400.0,2000.0,flite,mp3
+15,6,"","what are the gym sensor readings",0.3,300.0,2500.0,espeak,mp3
+15,7,"","is the radio in the katicken off",0.4,400.0,2000.0,flite,mp3
+15,8,"is the hallway smoke detector operating","is the hallway smoke detector operating",0.4,400.0,2000.0,google,mp3
+15,9,"","do you remember whether the light bulb in the hallway is still on",0.3,300.0,2500.0,flite,mp3
+15,10,"do you know whether the phone in the bathroom is turned off","do you know whether the phone in the bathroom is turned off",0.4,400.0,2000.0,google,mp3
+15,11,"","the sensors in my hallway are working properly correct",0.4,400.0,2000.0,flite,mp3"
+15,12,"does the clock in the hallway show the right time","does the clock in the hallway show the right time",0.4,400.0,2000.0,google,mp3
+15,13,"","can you tell me the kitchen temperature",0.4,400.0,2000.0,flite,mp3
+15,14,"","is the microwave off right now",0.4,400.0,2000.0,espeak,mp3
+15,15,"","is the home office air conditioner on",0.5,500.0,1500.0,espeak,mp3
+15,16,"what time is it on the clock in the hallway","what time is it on the clock in the hallway",0.5,500.0,1500.0,google,mp3
+15,17,"","could you tell me if the home office's tvs are turned off",0.5,500.0,1500.0,flite,mp3
+15,18,"is the clock in the hallway working correctly","is the clock in the hallway working correctly",0.5,500.0,1500.0,google,mp3
+15,19,"","is there a fire in the gym",0.5,500.0,1500.0,flite,mp3
+15,20,"","could you tell me what the kitchen's sensors say",0.5,500.0,1500.0,espeak,mp3
+15,21,"","will you let me know if the telephones in the office are turned on",0.5,500.0,1500.0,flite,mp3
+15,22,"","is the window air conditioner in the kitchen busted",0.5,500.0,1500.0,espeak,mp3
+15,23,"does the air conditioner in the kitchen work","does the air conditioner in the kitchen work",0.5,500.0,1500.0,flite,mp3
+15,24,"","are the gym alarms working",0.5,500.0,1500.0,google,mp3
+15,25,"","is the dining room temperature sensor working",0.5,500.0,1500.0,flite,mp3
+15,26,"","are the bedroom air conditioners turned on",0.3,300.0,2500.0,espeak,mp3
+15,27,"","is humidifier in hallway off",0.3,300.0,2500.0,google,mp3
+15,28,"","can you turn any of the tvs on",0.3,300.0,2500.0,espeak,mp3
+15,29,"","are the temperature gauges operational in the gym",0.3,300.0,2500.0,google,mp3
+16,0,"","is the phone in the living room ringing",0.3,300.0,2500.0,espeak,mp3
+16,1,"","are motion detectors on in the office",0.3,300.0,2500.0,espeak,mp3
+16,2,"","is the alarm activated in the restroom",0.3,300.0,2500.0,google,mp3
+16,3,"each","can you check the smoke detector in the hallway to be sure it's on",0.3,300.0,2500.0,flite,mp3
+16,4,"gone","is the miscrowave still on",0.4,400.0,2000.0,google,mp3
+16,5,"","is the phone not working",0.4,400.0,2000.0,flite,mp3
+16,6,"","what are the gym sensor readings",0.3,300.0,2500.0,espeak,mp3
+16,7,"project","is the radio in the katicken off",0.4,400.0,2000.0,flite,mp3
+16,8,"","is the hallway smoke detector operating",0.4,400.0,2000.0,google,mp3
+16,9,"polite","do you remember whether the light bulb in the hallway is still on",0.3,300.0,2500.0,flite,mp3
+16,10,"you","do you know whether the phone in the bathroom is turned off",0.4,400.0,2000.0,google,mp3
+16,11,"","the sensors in my hallway are working properly correct",0.4,400.0,2000.0,flite,mp3"
+16,12,"time","does the clock in the hallway show the right time",0.4,400.0,2000.0,google,mp3
+16,13,"can u call me the","can you tell me the kitchen temperature",0.4,400.0,2000.0,flite,mp3
+16,14,"","is the microwave off right now",0.4,400.0,2000.0,espeak,mp3
+16,15,"","is the home office air conditioner on",0.5,500.0,1500.0,espeak,mp3
+16,16,"hollow","what time is it on the clock in the hallway",0.5,500.0,1500.0,google,mp3
+16,17,"","could you tell me if the home office's tvs are turned off",0.5,500.0,1500.0,flite,mp3
+16,18,"","is the clock in the hallway working correctly",0.5,500.0,1500.0,google,mp3
+16,19,"","is there a fire in the gym",0.5,500.0,1500.0,flite,mp3
+16,20,"have","could you tell me what the kitchen's sensors say",0.5,500.0,1500.0,espeak,mp3
+16,21,"","will you let me know if the telephones in the office are turned on",0.5,500.0,1500.0,flite,mp3
+16,22,"","is the window air conditioner in the kitchen busted",0.5,500.0,1500.0,espeak,mp3
+16,23,"scenerio","does the air conditioner in the kitchen work",0.5,500.0,1500.0,flite,mp3
+16,24,"one","are the gym alarms working",0.5,500.0,1500.0,google,mp3
+16,25,"","is the dining room temperature sensor working",0.5,500.0,1500.0,flite,mp3
+16,26,"all","are the bedroom air conditioners turned on",0.3,300.0,2500.0,espeak,mp3
+16,27,"","is humidifier in hallway off",0.3,300.0,2500.0,google,mp3
+16,28,"","can you turn any of the tvs on",0.3,300.0,2500.0,espeak,mp3
+16,29,"","are the temperature gauges operational in the gym",0.3,300.0,2500.0,google,mp3
+17,0,"","is the phone in the living room ringing",0.3,300.0,2500.0,espeak,mp3
+17,1,"","are motion detectors on in the office",0.3,300.0,2500.0,espeak,mp3
+17,2,"in the restroom","is the alarm activated in the restroom",0.3,300.0,2500.0,google,mp3
+17,3,"","can you check the smoke detector in the hallway to be sure it's on",0.3,300.0,2500.0,flite,mp3
+17,4,"","is the miscrowave still on",0.4,400.0,2000.0,google,mp3
+17,5,"","is the phone not working",0.4,400.0,2000.0,flite,mp3
+17,6,"","what are the gym sensor readings",0.3,300.0,2500.0,espeak,mp3
+17,7,"","is the radio in the katicken off",0.4,400.0,2000.0,flite,mp3
+17,8,"in the hallway smoke detector operating","is the hallway smoke detector operating",0.4,400.0,2000.0,google,mp3
+17,9,"do you remember","do you remember whether the light bulb in the hallway is still on",0.3,300.0,2500.0,flite,mp3
+17,10,"do you know whether the phone in the bathroom is turned on","do you know whether the phone in the bathroom is turned off",0.4,400.0,2000.0,google,mp3
+17,11,"in my hallway","the sensors in my hallway are working properly correct",0.4,400.0,2000.0,flite,mp3"
+17,12,"does the clock in the hallway show the right time","does the clock in the hallway show the right time",0.4,400.0,2000.0,google,mp3
+17,13,"can you tell me the kitchen temperature","can you tell me the kitchen temperature",0.4,400.0,2000.0,flite,mp3
+17,14,"","is the microwave off right now",0.4,400.0,2000.0,espeak,mp3
+17,15,"","is the home office air conditioner on",0.5,500.0,1500.0,espeak,mp3
+17,16,"what time is it on the clock in the hallway","what time is it on the clock in the hallway",0.5,500.0,1500.0,google,mp3
+17,17,"can you tell me","could you tell me if the home office's tvs are turned off",0.5,500.0,1500.0,flite,mp3
+17,18,"is the clock in the hallway working correctly","is the clock in the hallway working correctly",0.5,500.0,1500.0,google,mp3
+17,19,"","is there a fire in the gym",0.5,500.0,1500.0,flite,mp3
+17,20,"","could you tell me what the kitchen's sensors say",0.5,500.0,1500.0,espeak,mp3
+17,21,"will you let me know","will you let me know if the telephones in the office are turned on",0.5,500.0,1500.0,flite,mp3
+17,22,"","is the window air conditioner in the kitchen busted",0.5,500.0,1500.0,espeak,mp3
+17,23,"does the air conditioner in the kitchen work","does the air conditioner in the kitchen work",0.5,500.0,1500.0,flite,mp3
+17,24,"","are the gym alarms working",0.5,500.0,1500.0,google,mp3
+17,25,"is the dining room temperature sensor working","is the dining room temperature sensor working",0.5,500.0,1500.0,flite,mp3
+17,26,"","are the bedroom air conditioners turned on",0.3,300.0,2500.0,espeak,mp3
+17,27,"","is humidifier in hallway off",0.3,300.0,2500.0,google,mp3
+17,28,"","can you turn any of the tvs on",0.3,300.0,2500.0,espeak,mp3
+17,29,"are the temperature","are the temperature gauges operational in the gym",0.3,300.0,2500.0,google,mp3
+18,0,"","is the phone in the living room ringing",0.3,300.0,2500.0,espeak,mp3
+18,1,"","are motion detectors on in the office",0.3,300.0,2500.0,espeak,mp3
+18,2,"all","is the alarm activated in the restroom",0.3,300.0,2500.0,google,mp3
+18,3,"","can you check the smoke detector in the hallway to be sure it's on",0.3,300.0,2500.0,flite,mp3
+18,4,"gone","is the miscrowave still on",0.4,400.0,2000.0,google,mp3
+18,5,"","is the phone not working",0.4,400.0,2000.0,flite,mp3
+18,6,"","what are the gym sensor readings",0.3,300.0,2500.0,espeak,mp3
+18,7,"temperory","is the radio in the katicken off",0.4,400.0,2000.0,flite,mp3
+18,8,"all","is the hallway smoke detector operating",0.4,400.0,2000.0,google,mp3
+18,9,"","do you remember whether the light bulb in the hallway is still on",0.3,300.0,2500.0,flite,mp3
+18,10,"","do you know whether the phone in the bathroom is turned off",0.4,400.0,2000.0,google,mp3
+18,11,"","the sensors in my hallway are working properly correct",0.4,400.0,2000.0,flite,mp3"
+18,12,"","does the clock in the hallway show the right time",0.4,400.0,2000.0,google,mp3
+18,13,"can we","can you tell me the kitchen temperature",0.4,400.0,2000.0,flite,mp3
+18,14,"","is the microwave off right now",0.4,400.0,2000.0,espeak,mp3
+18,15,"","is the home office air conditioner on",0.5,500.0,1500.0,espeak,mp3
+18,16,"honour","what time is it on the clock in the hallway",0.5,500.0,1500.0,google,mp3
+18,17,"had","could you tell me if the home office's tvs are turned off",0.5,500.0,1500.0,flite,mp3
+18,18,"","is the clock in the hallway working correctly",0.5,500.0,1500.0,google,mp3
+18,19,"","is there a fire in the gym",0.5,500.0,1500.0,flite,mp3
+18,20,"","could you tell me what the kitchen's sensors say",0.5,500.0,1500.0,espeak,mp3
+18,21,"on","will you let me know if the telephones in the office are turned on",0.5,500.0,1500.0,flite,mp3
+18,22,"","is the window air conditioner in the kitchen busted",0.5,500.0,1500.0,espeak,mp3
+18,23,"","does the air conditioner in the kitchen work",0.5,500.0,1500.0,flite,mp3
+18,24,"","are the gym alarms working",0.5,500.0,1500.0,google,mp3
+18,25,"","is the dining room temperature sensor working",0.5,500.0,1500.0,flite,mp3
+18,26,"","are the bedroom air conditioners turned on",0.3,300.0,2500.0,espeak,mp3
+18,27,"","is humidifier in hallway off",0.3,300.0,2500.0,google,mp3
+18,28,"","can you turn any of the tvs on",0.3,300.0,2500.0,espeak,mp3
+18,29,"","are the temperature gauges operational in the gym",0.3,300.0,2500.0,google,mp3
+19,0,"microwave","is the microwave off",0.3,300.0,2500.0,flite,mp3
+19,1,"","is the smoke alarm in the bathroom on",0.3,300.0,2500.0,espeak,mp3
+19,2,"","is the burglar alarm in the bedroom off",0.3,300.0,2500.0,flite,mp3
+19,3,"in the hallway","are the sensors currently working in the hallway",0.3,300.0,2500.0,espeak,mp3
+19,4,"is someone using the phone in the","is someone using the phone in the house",0.4,400.0,2000.0,flite,mp3
+19,5,"is there anything broken in the room","is there anything broken in the dining room",0.4,400.0,2000.0,espeak,mp3
+19,6,"does the humidifier in the bathroom work","does the humidifiyer in the bathroom work",0.4,400.0,2000.0,google,mp3
+19,7,"is the alarm activated","is the alarm activited",0.4,400.0,2000.0,google,mp3
+19,8,"is there any problems with the","is there any problems with the house phone",0.4,400.0,2000.0,flite,mp3
+19,9,"in the hallway","does the thermostat in the hallway work",0.4,400.0,2000.0,espeak,mp3
+19,10,"in the kitchen","are the sensors off in the kitchen",0.4,400.0,2000.0,flite,mp3
+19,11,"","is the stereo in the home office playing music",0.4,400.0,2000.0,espeak,mp3
+19,12,"is this dishwasher not working","is the dishwasher not working",0.4,400.0,2000.0,google,mp3
+19,13,"","what are the sensors in the kitchen reading",0.4,400.0,2000.0,espeak,mp3
+19,14,"did bob sleep last night","did bob sleep last night",0.4,400.0,2000.0,google,mp3
+19,15,"alarms working","are the smoke alarms in the home office working",0.5,500.0,1500.0,espeak,mp3
+19,16,"","is the hallway clock using power",0.5,500.0,1500.0,flite,mp3
+19,17,"","did tom stay up late",0.5,500.0,1500.0,espeak,mp3
+19,18,"are the kitchen sensors on","are the kitchen sensors on",0.3,300.0,2500.0,google,mp3
+19,19,"does the microwave in the kitchen","is the microwave in the kitchen switched off.",0.5,500.0,1500.0,espeak,mp3
+19,20,"lifetime","did i leave the lights on in the house",0.5,500.0,1500.0,google,mp3
+19,21,"air conditioner in the living room working","are the air conditioner in the living room working",0.5,500.0,1500.0,espeak,mp3
+19,22,"are the lights","are the lights off at home",0.5,500.0,1500.0,flite,mp3
+19,23,"does the alarm in the bathroom keep turning on","has the alarm in the bathroom been turned off",0.5,500.0,1500.0,espeak,mp3
+19,24,"do you coming from the bedroom","do you hear voices coming from the bedroom",0.5,500.0,1500.0,flite,mp3
+19,25,"alarm alarm","are there any burglar alarms on the home office that are on",0.5,500.0,1500.0,espeak,mp3
+19,26,"are there any lights on in the kitchen","are there any lights on in the kitchen",0.3,300.0,2500.0,google,mp3
+19,27,"is the jeep locked or","is the gym clock okay",0.3,300.0,2500.0,flite,mp3
+19,28,"can you tell if the alarms in the hallway are working","can you tell if the alarms in the hallway are working",0.3,300.0,2500.0,google,mp3
+19,29,"did you switch off the computer the alarm","did you switch off the security alarms in the bedroom",0.3,300.0,2500.0,flite,mp3
+20,0,"microwave","is the microwave off",0.3,300.0,2500.0,flite,mp3
+20,1,"","is the smoke alarm in the bathroom on",0.3,300.0,2500.0,espeak,mp3
+20,2,"","is the burglar alarm in the bedroom off",0.3,300.0,2500.0,flite,mp3
+20,3,"in the hallway","are the sensors currently working in the hallway",0.3,300.0,2500.0,espeak,mp3
+20,4,"is someone using the in the","is someone using the phone in the house",0.4,400.0,2000.0,flite,mp3
+20,5,"is there anything in the room","is there anything broken in the dining room",0.4,400.0,2000.0,espeak,mp3
+20,6,"does the humidifier in the bathroom work","does the humidifiyer in the bathroom work",0.4,400.0,2000.0,google,mp3
+20,7,"is the alarm not","is the alarm activited",0.4,400.0,2000.0,google,mp3
+20,8,"is there any problems with the house phone","is there any problems with the house phone",0.4,400.0,2000.0,flite,mp3
+20,9,"turn the in the hallway","does the thermostat in the hallway work",0.4,400.0,2000.0,espeak,mp3
+20,10,"in the kitchen","are the sensors off in the kitchen",0.4,400.0,2000.0,flite,mp3
+20,11,"is the","is the stereo in the home office playing music",0.4,400.0,2000.0,espeak,mp3
+20,12,"is the dishwasher not working","is the dishwasher not working",0.4,400.0,2000.0,google,mp3
+20,13,"","what are the sensors in the kitchen reading",0.4,400.0,2000.0,espeak,mp3
+20,14,"did bob sleep last night","did bob sleep last night",0.4,400.0,2000.0,google,mp3
+20,15,"the","are the smoke alarms in the home office working",0.5,500.0,1500.0,espeak,mp3
+20,16,"is the hallway using","is the hallway clock using power",0.5,500.0,1500.0,flite,mp3
+20,17,"","did tom stay up late",0.5,500.0,1500.0,espeak,mp3
+20,18,"ive been cooking cinnamon buns","are the kitchen sensors on",0.3,300.0,2500.0,google,mp3
+20,19,"the","is the microwave in the kitchen switched off.",0.5,500.0,1500.0,espeak,mp3
+20,20,"did i leave the lights on in the house","did i leave the lights on in the house",0.5,500.0,1500.0,google,mp3
+20,21,"","are the air conditioner in the living room working",0.5,500.0,1500.0,espeak,mp3
+20,22,"are the lights","are the lights off at home",0.5,500.0,1500.0,flite,mp3
+20,23,"","has the alarm in the bathroom been turned off",0.5,500.0,1500.0,espeak,mp3
+20,24,"do you bedroom","do you hear voices coming from the bedroom",0.5,500.0,1500.0,flite,mp3
+20,25,"are there gold","are there any burglar alarms on the home office that are on",0.5,500.0,1500.0,espeak,mp3
+20,26,"are there any lights on in the kitchen","are there any lights on in the kitchen",0.3,300.0,2500.0,google,mp3
+20,27,"is the","is the gym clock okay",0.3,300.0,2500.0,flite,mp3
+20,28,"can you tell if the alarms in the hallway are working","can you tell if the alarms in the hallway are working",0.3,300.0,2500.0,google,mp3
+20,29,"did you switch off the in the bedroom","did you switch off the security alarms in the bedroom",0.3,300.0,2500.0,flite,mp3
+21,0,"mike the naval","is the microwave off",0.3,300.0,2500.0,flite,mp3
+21,1,"along the long","is the smoke alarm in the bathroom on",0.3,300.0,2500.0,espeak,mp3
+21,2,"it has a long arm walk","is the burglar alarm in the bedroom off",0.3,300.0,2500.0,flite,mp3
+21,3,"all the hallway","are the sensors currently working in the hallway",0.3,300.0,2500.0,espeak,mp3
+21,4,"kiss someone using the phone in the house","is someone using the phone in the house",0.4,400.0,2000.0,flite,mp3
+21,5,"this is really a steam roller rude","is there anything broken in the dining room",0.4,400.0,2000.0,espeak,mp3
+21,6,"the humidity in the bathroom","does the humidifiyer in the bathroom work",0.4,400.0,2000.0,google,mp3
+21,7,"its the alarm","is the alarm activited",0.4,400.0,2000.0,google,mp3
+21,8,"defer any problems","is there any problems with the house phone",0.4,400.0,2000.0,flite,mp3
+21,9,"hallway were","does the thermostat in the hallway work",0.4,400.0,2000.0,espeak,mp3
+21,10,"in the kitchen","are the sensors off in the kitchen",0.4,400.0,2000.0,flite,mp3
+21,11,"","is the stereo in the home office playing music",0.4,400.0,2000.0,espeak,mp3
+21,12,"is the dishwasher not working","is the dishwasher not working",0.4,400.0,2000.0,google,mp3
+21,13,"what are the things redo","what are the sensors in the kitchen reading",0.4,400.0,2000.0,espeak,mp3
+21,14,"last night","did bob sleep last night",0.4,400.0,2000.0,google,mp3
+21,15,"","are the smoke alarms in the home office working",0.5,500.0,1500.0,espeak,mp3
+21,16,"does it have","is the hallway clock using power",0.5,500.0,1500.0,flite,mp3
+21,17,"the","did tom stay up late",0.5,500.0,1500.0,espeak,mp3
+21,18,"are the chickens sensitive","are the kitchen sensors on",0.3,300.0,2500.0,google,mp3
+21,19,"the wind","is the microwave in the kitchen switched off.",0.5,500.0,1500.0,espeak,mp3
+21,20,"right sign in the house","did i leave the lights on in the house",0.5,500.0,1500.0,google,mp3
+21,21,"rude words","are the air conditioner in the living room working",0.5,500.0,1500.0,espeak,mp3
+21,22,"theres a light up","are the lights off at home",0.5,500.0,1500.0,flite,mp3
+21,23,"","has the alarm in the bathroom been turned off",0.5,500.0,1500.0,espeak,mp3
+21,24,"coming for the","do you hear voices coming from the bedroom",0.5,500.0,1500.0,flite,mp3
+21,25,"office of heran","are there any burglar alarms on the home office that are on",0.5,500.0,1500.0,espeak,mp3
+21,26,"i can only light on a","are there any lights on in the kitchen",0.3,300.0,2500.0,google,mp3
+21,27,"if a","is the gym clock okay",0.3,300.0,2500.0,flite,mp3
+21,28,"can you tell alarms in the hallways working","can you tell if the alarms in the hallway are working",0.3,300.0,2500.0,google,mp3
+21,29,"did you check the security alarms in the bedroom","did you switch off the security alarms in the bedroom",0.3,300.0,2500.0,flite,mp3
+22,0,"","is someone on the phone in bedroom",0.3,300.0,2500.0,espeak,mp3
+22,1,"found","are the office's phones okay",0.3,300.0,2500.0,google,mp3
+22,2,"","does the lightbulb in the hallway work",0.3,300.0,2500.0,flite,mp3
+22,3,"","are the gym clocks showing time",0.3,300.0,2500.0,google,mp3
+22,4,"","are the sensors in the livingroom taking readings",0.4,400.0,2000.0,flite,mp3
+22,5,"","are the humidifiers in the hallway turned off",0.4,400.0,2000.0,google,mp3
+22,6,"","is the kitchen blender running",0.4,400.0,2000.0,flite,mp3
+22,7,"","is the hallway tv broken",0.4,400.0,2000.0,espeak,mp3
+22,8,"","do the gym clocks still work",0.4,400.0,2000.0,espeak,mp3
+22,9,"","is the phone in the hallway on or off",0.4,400.0,2000.0,google,mp3
+22,10,"","are the boomboxes in the home office operating",0.4,400.0,2000.0,flite,mp3
+22,11,"","is anyone using the tv's in the house",0.4,400.0,2000.0,google,mp3
+22,12,"","are the smoke detectors in the home office on or off",0.4,400.0,2000.0,flite,mp3
+22,13,"","can you turn on the home office ac",0.4,400.0,2000.0,espeak,mp3
+22,14,"","are the house humidifiers on",0.4,400.0,2000.0,flite,mp3
+22,15,"","is the telephone in the gym working",0.5,500.0,1500.0,google,mp3
+22,16,"","is the office air conditioner working",0.5,500.0,1500.0,flite,mp3
+22,17,"","does the house phone work properly right now",0.5,500.0,1500.0,google,mp3
+22,18,"","is the oven supposed to do that",0.5,500.0,1500.0,flite,mp3
+22,19,"","is the grill off",0.3,300.0,2500.0,espeak,mp3
+22,20,"","is my home office protected with motion detectors",0.5,500.0,1500.0,flite,mp3
+22,21,"","are the lights in the hallway on",0.5,500.0,1500.0,espeak,mp3
+22,22,"","is the home security alarm not working",0.3,300.0,2500.0,flite,mp3
+22,23,"","are the security alarms in the gym working okay or are they broken",0.5,500.0,1500.0,google,mp3
+22,24,"","do you have the air conditioning in the bathroom on",0.5,500.0,1500.0,flite,mp3
+22,25,"","is the gym's alarm okay",0.5,500.0,1500.0,google,mp3
+22,26,"","are the phone in the hallway working",0.3,300.0,2500.0,google,mp3
+22,27,"","how many eggs are in the fridge",0.3,300.0,2500.0,espeak,mp3
+22,28,"","are the dining room's speakers broken",0.3,300.0,2500.0,google,mp3
+22,29,"","is the clock in my dining room on",0.3,300.0,2500.0,espeak,mp3
+23,0,"","is someone on the phone in bedroom",0.3,300.0,2500.0,espeak,mp3
+23,1,"offices","are the office's phones okay",0.3,300.0,2500.0,google,mp3
+23,2,"having","does the lightbulb in the hallway work",0.3,300.0,2500.0,flite,mp3
+23,3,"","are the gym clocks showing time",0.3,300.0,2500.0,google,mp3
+23,4,"ready","are the sensors in the livingroom taking readings",0.4,400.0,2000.0,flite,mp3
+23,5,"","are the humidifiers in the hallway turned off",0.4,400.0,2000.0,google,mp3
+23,6,"is it kitchen","is the kitchen blender running",0.4,400.0,2000.0,flite,mp3
+23,7,"","is the hallway tv broken",0.4,400.0,2000.0,espeak,mp3
+23,8,"","do the gym clocks still work",0.4,400.0,2000.0,espeak,mp3
+23,9,"","is the phone in the hallway on or off",0.4,400.0,2000.0,google,mp3
+23,10,"","are the boomboxes in the home office operating",0.4,400.0,2000.0,flite,mp3
+23,11,"is anyone using","is anyone using the tv's in the house",0.4,400.0,2000.0,google,mp3
+23,12,"","are the smoke detectors in the home office on or off",0.4,400.0,2000.0,flite,mp3
+23,13,"","can you turn on the home office ac",0.4,400.0,2000.0,espeak,mp3
+23,14,"are they","are the house humidifiers on",0.4,400.0,2000.0,flite,mp3
+23,15,"immortal","is the telephone in the gym working",0.5,500.0,1500.0,google,mp3
+23,16,"","is the office air conditioner working",0.5,500.0,1500.0,flite,mp3
+23,17,"probably right now","does the house phone work properly right now",0.5,500.0,1500.0,google,mp3
+23,18,"","is the oven supposed to do that",0.5,500.0,1500.0,flite,mp3
+23,19,"its the new","is the grill off",0.3,300.0,2500.0,espeak,mp3
+23,20,"machine to cut","is my home office protected with motion detectors",0.5,500.0,1500.0,flite,mp3
+23,21,"","are the lights in the hallway on",0.5,500.0,1500.0,espeak,mp3
+23,22,"not working","is the home security alarm not working",0.3,300.0,2500.0,flite,mp3
+23,23,"peculiar","are the security alarms in the gym working okay or are they broken",0.5,500.0,1500.0,google,mp3
+23,24,"","do you have the air conditioning in the bathroom on",0.5,500.0,1500.0,flite,mp3
+23,25,"","is the gym's alarm okay",0.5,500.0,1500.0,google,mp3
+23,26,"are they found working","are the phone in the hallway working",0.3,300.0,2500.0,google,mp3
+23,27,"","how many eggs are in the fridge",0.3,300.0,2500.0,espeak,mp3
+23,28,"are the diamond ring","are the dining room's speakers broken",0.3,300.0,2500.0,google,mp3
+23,29,"","is the clock in my dining room on",0.3,300.0,2500.0,espeak,mp3
+24,0,"","is someone on the phone in bedroom",0.3,300.0,2500.0,espeak,mp3
+24,1,"offices","are the office's phones okay",0.3,300.0,2500.0,google,mp3
+24,2,"","does the lightbulb in the hallway work",0.3,300.0,2500.0,flite,mp3
+24,3,"","are the gym clocks showing time",0.3,300.0,2500.0,google,mp3
+24,4,"","are the sensors in the livingroom taking readings",0.4,400.0,2000.0,flite,mp3
+24,5,"so long","are the humidifiers in the hallway turned off",0.4,400.0,2000.0,google,mp3
+24,6,"kitchen grandular","is the kitchen blender running",0.4,400.0,2000.0,flite,mp3
+24,7,"","is the hallway tv broken",0.4,400.0,2000.0,espeak,mp3
+24,8,"","do the gym clocks still work",0.4,400.0,2000.0,espeak,mp3
+24,9,"","is the phone in the hallway on or off",0.4,400.0,2000.0,google,mp3
+24,10,"","are the boomboxes in the home office operating",0.4,400.0,2000.0,flite,mp3
+24,11,"is any one using","is anyone using the tv's in the house",0.4,400.0,2000.0,google,mp3
+24,12,"","are the smoke detectors in the home office on or off",0.4,400.0,2000.0,flite,mp3
+24,13,"","can you turn on the home office ac",0.4,400.0,2000.0,espeak,mp3
+24,14,"","are the house humidifiers on",0.4,400.0,2000.0,flite,mp3
+24,15,"immortal","is the telephone in the gym working",0.5,500.0,1500.0,google,mp3
+24,16,"","is the office air conditioner working",0.5,500.0,1500.0,flite,mp3
+24,17,"right now","does the house phone work properly right now",0.5,500.0,1500.0,google,mp3
+24,18,"","is the oven supposed to do that",0.5,500.0,1500.0,flite,mp3
+24,19,"","is the grill off",0.3,300.0,2500.0,espeak,mp3
+24,20,"machine","is my home office protected with motion detectors",0.5,500.0,1500.0,flite,mp3
+24,21,"","are the lights in the hallway on",0.5,500.0,1500.0,espeak,mp3
+24,22,"not working","is the home security alarm not working",0.3,300.0,2500.0,flite,mp3
+24,23,"peculiar","are the security alarms in the gym working okay or are they broken",0.5,500.0,1500.0,google,mp3
+24,24,"do you have","do you have the air conditioning in the bathroom on",0.5,500.0,1500.0,flite,mp3
+24,25,"","is the gym's alarm okay",0.5,500.0,1500.0,google,mp3
+24,26,"working","are the phone in the hallway working",0.3,300.0,2500.0,google,mp3
+24,27,"","how many eggs are in the fridge",0.3,300.0,2500.0,espeak,mp3
+24,28,"are the diamond ring","are the dining room's speakers broken",0.3,300.0,2500.0,google,mp3
+24,29,"","is the clock in my dining room on",0.3,300.0,2500.0,espeak,mp3
+25,0,"","is someone on the phone in bedroom",0.3,300.0,2500.0,espeak,mp3
+25,1,"","are the office's phones okay",0.3,300.0,2500.0,google,mp3
+25,2,"","does the lightbulb in the hallway work",0.3,300.0,2500.0,flite,mp3
+25,3,"","are the gym clocks showing time",0.3,300.0,2500.0,google,mp3
+25,4,"","are the sensors in the livingroom taking readings",0.4,400.0,2000.0,flite,mp3
+25,5,"","are the humidifiers in the hallway turned off",0.4,400.0,2000.0,google,mp3
+25,6,"","is the kitchen blender running",0.4,400.0,2000.0,flite,mp3
+25,7,"","is the hallway tv broken",0.4,400.0,2000.0,espeak,mp3
+25,8,"","do the gym clocks still work",0.4,400.0,2000.0,espeak,mp3
+25,9,"","is the phone in the hallway on or off",0.4,400.0,2000.0,google,mp3
+25,10,"","are the boomboxes in the home office operating",0.4,400.0,2000.0,flite,mp3
+25,11,"","is anyone using the tv's in the house",0.4,400.0,2000.0,google,mp3
+25,12,"","are the smoke detectors in the home office on or off",0.4,400.0,2000.0,flite,mp3
+25,13,"","can you turn on the home office ac",0.4,400.0,2000.0,espeak,mp3
+25,14,"","are the house humidifiers on",0.4,400.0,2000.0,flite,mp3
+25,15,"","is the telephone in the gym working",0.5,500.0,1500.0,google,mp3
+25,16,"","is the office air conditioner working",0.5,500.0,1500.0,flite,mp3
+25,17,"","does the house phone work properly right now",0.5,500.0,1500.0,google,mp3
+25,18,"","is the oven supposed to do that",0.5,500.0,1500.0,flite,mp3
+25,19,"","is the grill off",0.3,300.0,2500.0,espeak,mp3
+25,20,"","is my home office protected with motion detectors",0.5,500.0,1500.0,flite,mp3
+25,21,"","are the lights in the hallway on",0.5,500.0,1500.0,espeak,mp3
+25,22,"","is the home security alarm not working",0.3,300.0,2500.0,flite,mp3
+25,23,"","are the security alarms in the gym working okay or are they broken",0.5,500.0,1500.0,google,mp3
+25,24,"","do you have the air conditioning in the bathroom on",0.5,500.0,1500.0,flite,mp3
+25,25,"","is the gym's alarm okay",0.5,500.0,1500.0,google,mp3
+25,26,"found in highly","are the phone in the hallway working",0.3,300.0,2500.0,google,mp3
+25,27,"","how many eggs are in the fridge",0.3,300.0,2500.0,espeak,mp3
+25,28,"","are the dining room's speakers broken",0.3,300.0,2500.0,google,mp3
+25,29,"","is the clock in my dining room on",0.3,300.0,2500.0,espeak,mp3
+26,0,"","is someone on the phone in bedroom",0.3,300.0,2500.0,espeak,mp3
+26,1,"opposite","are the office's phones okay",0.3,300.0,2500.0,google,mp3
+26,2,"","does the lightbulb in the hallway work",0.3,300.0,2500.0,flite,mp3
+26,3,"","are the gym clocks showing time",0.3,300.0,2500.0,google,mp3
+26,4,"living room","are the sensors in the livingroom taking readings",0.4,400.0,2000.0,flite,mp3
+26,5,"are the humidifiers in the hallway turned off","are the humidifiers in the hallway turned off",0.4,400.0,2000.0,google,mp3
+26,6,"is the kitchen running","is the kitchen blender running",0.4,400.0,2000.0,flite,mp3
+26,7,"is the hallway broken","is the hallway tv broken",0.4,400.0,2000.0,espeak,mp3
+26,8,"","do the gym clocks still work",0.4,400.0,2000.0,espeak,mp3
+26,9,"is the phone in the hallway on or off","is the phone in the hallway on or off",0.4,400.0,2000.0,google,mp3
+26,10,"are the boomboxes in the home office operating","are the boomboxes in the home office operating",0.4,400.0,2000.0,flite,mp3
+26,11,"is anyone using the tv","is anyone using the tv's in the house",0.4,400.0,2000.0,google,mp3
+26,12,"are the smoke detectors in the home","are the smoke detectors in the home office on or off",0.4,400.0,2000.0,flite,mp3
+26,13,"can you turn on","can you turn on the home office ac",0.4,400.0,2000.0,espeak,mp3
+26,14,"are the","are the house humidifiers on",0.4,400.0,2000.0,flite,mp3
+26,15,"is the telephone in the working","is the telephone in the gym working",0.5,500.0,1500.0,google,mp3
+26,16,"working","is the office air conditioner working",0.5,500.0,1500.0,flite,mp3
+26,17,"right now","does the house phone work properly right now",0.5,500.0,1500.0,google,mp3
+26,18,"is the oven supposed to do that","is the oven supposed to do that",0.5,500.0,1500.0,flite,mp3
+26,19,"","is the grill off",0.3,300.0,2500.0,espeak,mp3
+26,20,"","is my home office protected with motion detectors",0.5,500.0,1500.0,flite,mp3
+26,21,"hallway","are the lights in the hallway on",0.5,500.0,1500.0,espeak,mp3
+26,22,"is the home security alarm not working","is the home security alarm not working",0.3,300.0,2500.0,flite,mp3
+26,23,"security alarms","are the security alarms in the gym working okay or are they broken",0.5,500.0,1500.0,google,mp3
+26,24,"do you have the air conditioning in the bathroom on","do you have the air conditioning in the bathroom on",0.5,500.0,1500.0,flite,mp3
+26,25,"","is the gym's alarm okay",0.5,500.0,1500.0,google,mp3
+26,26,"are the in the hallway working","are the phone in the hallway working",0.3,300.0,2500.0,google,mp3
+26,27,"how many","how many eggs are in the fridge",0.3,300.0,2500.0,espeak,mp3
+26,28,"are the dining room speakers","are the dining room's speakers broken",0.3,300.0,2500.0,google,mp3
+26,29,"is the","is the clock in my dining room on",0.3,300.0,2500.0,espeak,mp3
+27,0,"","is the humidifyiyer in the bathroom working",0.3,300.0,2500.0,flite,mp3
+27,1,"is there a problem with the microwave","is there a problem with the microwave",0.3,300.0,2500.0,google,mp3
+27,2,"kitchen","is the telephone in the kitchen working",0.3,300.0,2500.0,flite,mp3
+27,3,"","is the kitchen tv not working",0.3,300.0,2500.0,espeak,mp3
+27,4,"","are the smoke detectors running properly in the home office",0.4,400.0,2000.0,flite,mp3
+27,5,"","can you check the chandelier lights in the dining room to see if they are working",0.4,400.0,2000.0,espeak,mp3
+27,6,"living room","are the humidifiers in the living room turned off",0.4,400.0,2000.0,flite,mp3
+27,7,"","are the screens lit in the chillspace",0.4,400.0,2000.0,google,mp3
+27,8,"","are the humidifiers plugged in and turned on",0.4,400.0,2000.0,flite,mp3
+27,9,"turn off the burglar alarm in the bathroom","did you turn off the burglar alarm in the bathroom",0.4,400.0,2000.0,google,mp3
+27,10,"living room","is the humidity turned off in the living room",0.4,400.0,2000.0,flite,mp3
+27,11,"","does the house phone work properly",0.4,400.0,2000.0,espeak,mp3
+27,12,"do we have","how many eggs do we have",0.4,400.0,2000.0,flite,mp3
+27,13,"where","where is the clock located",0.4,400.0,2000.0,espeak,mp3
+27,14,"is the oven in the kitchen working ok","is the oven in the kitchen working okay",0.4,400.0,2000.0,google,mp3
+27,15,"music playing","where is that music playing",0.5,500.0,1500.0,google,mp3
+27,16,"","is there something wrong with the sensors in the halls",0.5,500.0,1500.0,flite,mp3
+27,17,"","what time are the clocks in the home office reading",0.5,500.0,1500.0,espeak,mp3
+27,18,"","which room of the house has the stereo",0.5,500.0,1500.0,flite,mp3
+27,19,"","are the phones that we have in the living room currently turned on",0.5,500.0,1500.0,espeak,mp3
+27,20,"dining hall people","are the dining room speakers broken",0.3,300.0,2500.0,google,mp3
+27,21,"","is the bedroom humidifier not working properly",0.5,500.0,1500.0,espeak,mp3
+27,22,"","what is the time on the clock in the living room",0.5,500.0,1500.0,flite,mp3
+27,23,"","can you still tell what time it is from the clocks in the gym",0.3,300.0,2500.0,espeak,mp3
+27,24,"","is the smoke detector in the house off",0.5,500.0,1500.0,flite,mp3
+27,25,"turn off the tv","can you turn off the tv's in the home office",0.5,500.0,1500.0,espeak,mp3
+27,26,"","is the office ac on",0.3,300.0,2500.0,google,mp3
+27,27,"","are the stereos in the home office on",0.3,300.0,2500.0,flite,mp3
+27,28,"","is the security broke in the bedroom",0.3,300.0,2500.0,google,mp3
+27,29,"","is there light in the hallway",0.3,300.0,2500.0,flite,mp3
+28,0,"if","is the humidifyiyer in the bathroom working",0.3,300.0,2500.0,flite,mp3
+28,1,"is there a problem with my voice","is there a problem with the microwave",0.3,300.0,2500.0,google,mp3
+28,2,"","is the telephone in the kitchen working",0.3,300.0,2500.0,flite,mp3
+28,3,"","is the kitchen tv not working",0.3,300.0,2500.0,espeak,mp3
+28,4,"","are the smoke detectors running properly in the home office",0.4,400.0,2000.0,flite,mp3
+28,5,"","can you check the chandelier lights in the dining room to see if they are working",0.4,400.0,2000.0,espeak,mp3
+28,6,"","are the humidifiers in the living room turned off",0.4,400.0,2000.0,flite,mp3
+28,7,"","are the screens lit in the chillspace",0.4,400.0,2000.0,google,mp3
+28,8,"","are the humidifiers plugged in and turned on",0.4,400.0,2000.0,flite,mp3
+28,9,"","did you turn off the burglar alarm in the bathroom",0.4,400.0,2000.0,google,mp3
+28,10,"","is the humidity turned off in the living room",0.4,400.0,2000.0,flite,mp3
+28,11,"","does the house phone work properly",0.4,400.0,2000.0,espeak,mp3
+28,12,"","how many eggs do we have",0.4,400.0,2000.0,flite,mp3
+28,13,"","where is the clock located",0.4,400.0,2000.0,espeak,mp3
+28,14,"if you love it here","is the oven in the kitchen working okay",0.4,400.0,2000.0,google,mp3
+28,15,"to play","where is that music playing",0.5,500.0,1500.0,google,mp3
+28,16,"","is there something wrong with the sensors in the halls",0.5,500.0,1500.0,flite,mp3
+28,17,"i have a plan","what time are the clocks in the home office reading",0.5,500.0,1500.0,espeak,mp3
+28,18,"","which room of the house has the stereo",0.5,500.0,1500.0,flite,mp3
+28,19,"","are the phones that we have in the living room currently turned on",0.5,500.0,1500.0,espeak,mp3
+28,20,"","are the dining room speakers broken",0.3,300.0,2500.0,google,mp3
+28,21,"","is the bedroom humidifier not working properly",0.5,500.0,1500.0,espeak,mp3
+28,22,"","what is the time on the clock in the living room",0.5,500.0,1500.0,flite,mp3
+28,23,"","can you still tell what time it is from the clocks in the gym",0.3,300.0,2500.0,espeak,mp3
+28,24,"","is the smoke detector in the house off",0.5,500.0,1500.0,flite,mp3
+28,25,"","can you turn off the tv's in the home office",0.5,500.0,1500.0,espeak,mp3
+28,26,"","is the office ac on",0.3,300.0,2500.0,google,mp3
+28,27,"","are the stereos in the home office on",0.3,300.0,2500.0,flite,mp3
+28,28,"","is the security broke in the bedroom",0.3,300.0,2500.0,google,mp3
+28,29,"","is there light in the hallway",0.3,300.0,2500.0,flite,mp3
+29,0,"back in","is the humidifyiyer in the bathroom working",0.3,300.0,2500.0,flite,mp3
+29,1,"problem is like always","is there a problem with the microwave",0.3,300.0,2500.0,google,mp3
+29,2,"","is the telephone in the kitchen working",0.3,300.0,2500.0,flite,mp3
+29,3,"we have word in","is the kitchen tv not working",0.3,300.0,2500.0,espeak,mp3
+29,4,"","are the smoke detectors running properly in the home office",0.4,400.0,2000.0,flite,mp3
+29,5,"believe word","can you check the chandelier lights in the dining room to see if they are working",0.4,400.0,2000.0,espeak,mp3
+29,6,"hire","are the humidifiers in the living room turned off",0.4,400.0,2000.0,flite,mp3
+29,7,"","are the screens lit in the chillspace",0.4,400.0,2000.0,google,mp3
+29,8,"hired","are the humidifiers plugged in and turned on",0.4,400.0,2000.0,flite,mp3
+29,9,"after","did you turn off the burglar alarm in the bathroom",0.4,400.0,2000.0,google,mp3
+29,10,"","is the humidity turned off in the living room",0.4,400.0,2000.0,flite,mp3
+29,11,"house","does the house phone work properly",0.4,400.0,2000.0,espeak,mp3
+29,12,"","how many eggs do we have",0.4,400.0,2000.0,flite,mp3
+29,13,"when does not ok","where is the clock located",0.4,400.0,2000.0,espeak,mp3
+29,14,"other word is ok","is the oven in the kitchen working okay",0.4,400.0,2000.0,google,mp3
+29,15,"where is that","where is that music playing",0.5,500.0,1500.0,google,mp3
+29,16,"","is there something wrong with the sensors in the halls",0.5,500.0,1500.0,flite,mp3
+29,17,"love","what time are the clocks in the home office reading",0.5,500.0,1500.0,espeak,mp3
+29,18,"we have","which room of the house has the stereo",0.5,500.0,1500.0,flite,mp3
+29,19,"","are the phones that we have in the living room currently turned on",0.5,500.0,1500.0,espeak,mp3
+29,20,"","are the dining room speakers broken",0.3,300.0,2500.0,google,mp3
+29,21,"","is the bedroom humidifier not working properly",0.5,500.0,1500.0,espeak,mp3
+29,22,"cannot","what is the time on the clock in the living room",0.5,500.0,1500.0,flite,mp3
+29,23,"what time","can you still tell what time it is from the clocks in the gym",0.3,300.0,2500.0,espeak,mp3
+29,24,"","is the smoke detector in the house off",0.5,500.0,1500.0,flite,mp3
+29,25,"return of","can you turn off the tv's in the home office",0.5,500.0,1500.0,espeak,mp3
+29,26,"","is the office ac on",0.3,300.0,2500.0,google,mp3
+29,27,"ok you have","are the stereos in the home office on",0.3,300.0,2500.0,flite,mp3
+29,28,"","is the security broke in the bedroom",0.3,300.0,2500.0,google,mp3
+29,29,"help","is there light in the hallway",0.3,300.0,2500.0,flite,mp3
+30,0,"","is the stove turned off",0.3,300.0,2500.0,espeak,mp3
+30,1,"","how hot is the gym",0.3,300.0,2500.0,flite,mp3
+30,2,"please","did you disengage the hallway smoke detector",0.3,300.0,2500.0,espeak,mp3
+30,3,"turn the appliance on in the kitchen","is there any appliance on in the kitchen",0.3,300.0,2500.0,google,mp3
+30,4,"","do the clocks in the gym work",0.4,400.0,2000.0,espeak,mp3
+30,5,"smoke alarm work in the office","do the smoke alarms work in the office",0.4,400.0,2000.0,google,mp3
+30,6,"is the kitchen currently working","is the kitchen humidifier currently working",0.3,300.0,2500.0,flite,mp3
+30,7,"is the television in the kitchen turned off","is the television in the kitchen turned off",0.4,400.0,2000.0,flite,mp3
+30,8,"everyone","is anyone watching tv in the den",0.4,400.0,2000.0,espeak,mp3
+30,9,"is the working right","is the gym thermometer working right",0.3,300.0,2500.0,google,mp3
+30,10,"","is the dehumidifier in the bathroom working",0.4,400.0,2000.0,espeak,mp3
+30,11,"how long does the thermometer in the bathroom","how warm does the thermometer in the bathroom say that that room is",0.4,400.0,2000.0,google,mp3
+30,12,"","is the burglar dectector in the house inoperable",0.4,400.0,2000.0,espeak,mp3
+30,13,"is the thermostat in the bedroom off","is the thermostat in the bedroom off",0.4,400.0,2000.0,google,mp3
+30,14,"is the smoke detector in the hallway on","is the smoke detector in the hallway on",0.4,400.0,2000.0,flite,mp3
+30,15,"are the hallway thermometers working","are the hallway thermometers working",0.5,500.0,1500.0,flite,mp3
+30,16,"are the living room thermostats","are the living room thermostats on",0.5,500.0,1500.0,espeak,mp3
+30,17,"what is the temperature reading of the house thermometer","what are the temperature readings of the house thermometers",0.5,500.0,1500.0,google,mp3
+30,18,"is the alarm ready","is the alarm ready",0.5,500.0,1500.0,espeak,mp3
+30,19,"is someone talking on the phone in the living room","is someone talking on the phone in the livingroom",0.5,500.0,1500.0,google,mp3
+30,20,"","are the office sensors off or on",0.5,500.0,1500.0,flite,mp3
+30,21,"is the refrigerator in the kitchen","is the refrigerator in the kitchen on",0.5,500.0,1500.0,google,mp3
+30,22,"is the working well in the hallway","is the tv working well in the hallway",0.5,500.0,1500.0,espeak,mp3
+30,23,"are all the fire alarms in the office","are all the fire alarms in the office on",0.5,500.0,1500.0,google,mp3
+30,24,"is there smoke","is there smoke in the gym",0.5,500.0,1500.0,espeak,mp3
+30,25,"is the thermometer right","does the thermometer in the gym work right",0.5,500.0,1500.0,google,mp3
+30,26,"are the burglar alarms not working","are the burglary alarms in the livingroom not working",0.3,300.0,2500.0,flite,mp3
+30,27,"are the dining room thermostats working","are the dining room thermostats working",0.3,300.0,2500.0,espeak,mp3
+30,28,"is the clock in the hallway broken","is the clock in the hallway broken",0.3,300.0,2500.0,flite,mp3
+30,29,"are the","are the clocks inside the home office turned off",0.3,300.0,2500.0,espeak,mp3
+31,0,"is the stove turned on","is the stove turned off",0.3,300.0,2500.0,espeak,mp3
+31,1,"","how hot is the gym",0.3,300.0,2500.0,flite,mp3
+31,2,"please call","did you disengage the hallway smoke detector",0.3,300.0,2500.0,espeak,mp3
+31,3,"is there any appliance on in the kitchen","is there any appliance on in the kitchen",0.3,300.0,2500.0,google,mp3
+31,4,"to the","do the clocks in the gym work",0.4,400.0,2000.0,espeak,mp3
+31,5,"do the smoke alarms work in the office","do the smoke alarms work in the office",0.4,400.0,2000.0,google,mp3
+31,6,"is the kitchen","is the kitchen humidifier currently working",0.3,300.0,2500.0,flite,mp3
+31,7,"is the television in the kitchen turned","is the television in the kitchen turned off",0.4,400.0,2000.0,flite,mp3
+31,8,"one block","is anyone watching tv in the den",0.4,400.0,2000.0,espeak,mp3
+31,9,"is the thermometer working right","is the gym thermometer working right",0.3,300.0,2500.0,google,mp3
+31,10,"is the room working","is the dehumidifier in the bathroom working",0.4,400.0,2000.0,espeak,mp3
+31,11,"how long does the thermometer in the bathroom","how warm does the thermometer in the bathroom say that that room is",0.4,400.0,2000.0,google,mp3
+31,12,"","is the burglar dectector in the house inoperable",0.4,400.0,2000.0,espeak,mp3
+31,13,"is the thermostat in the bedroom off","is the thermostat in the bedroom off",0.4,400.0,2000.0,google,mp3
+31,14,"is the smoke detector in the hallway on","is the smoke detector in the hallway on",0.4,400.0,2000.0,flite,mp3
+31,15,"waiting on the working","are the hallway thermometers working",0.5,500.0,1500.0,flite,mp3
+31,16,"room service","are the living room thermostats on",0.5,500.0,1500.0,espeak,mp3
+31,17,"what is the temperature reading for the house thermometer","what are the temperature readings of the house thermometers",0.5,500.0,1500.0,google,mp3
+31,18,"is the alarm ready","is the alarm ready",0.5,500.0,1500.0,espeak,mp3
+31,19,"is someone talking on the phone in the living room","is someone talking on the phone in the livingroom",0.5,500.0,1500.0,google,mp3
+31,20,"heard you have the a lot going on","are the office sensors off or on",0.5,500.0,1500.0,flite,mp3
+31,21,"is the refrigerator in the kitchen on","is the refrigerator in the kitchen on",0.5,500.0,1500.0,google,mp3
+31,22,"working well in the hallway","is the tv working well in the hallway",0.5,500.0,1500.0,espeak,mp3
+31,23,"are all the fire alarms in the office on","are all the fire alarms in the office on",0.5,500.0,1500.0,google,mp3
+31,24,"smoke in the","is there smoke in the gym",0.5,500.0,1500.0,espeak,mp3
+31,25,"is the thermometer in the right","does the thermometer in the gym work right",0.5,500.0,1500.0,google,mp3
+31,26,"the alarm in the living room is not working","are the burglary alarms in the livingroom not working",0.3,300.0,2500.0,flite,mp3
+31,27,"are the dining room not working","are the dining room thermostats working",0.3,300.0,2500.0,espeak,mp3
+31,28,"is the clock in the hallway broken","is the clock in the hallway broken",0.3,300.0,2500.0,flite,mp3
+31,29,"are the clocks inside the turned on","are the clocks inside the home office turned off",0.3,300.0,2500.0,espeak,mp3
+32,0,"did the school turn off","is the stove turned off",0.3,300.0,2500.0,espeak,mp3
+32,1,"is in","how hot is the gym",0.3,300.0,2500.0,flite,mp3
+32,2,"","did you disengage the hallway smoke detector",0.3,300.0,2500.0,espeak,mp3
+32,3,"in the kitchen","is there any appliance on in the kitchen",0.3,300.0,2500.0,google,mp3
+32,4,"not the work","do the clocks in the gym work",0.4,400.0,2000.0,espeak,mp3
+32,5,"did the smoke alarms work in the office","do the smoke alarms work in the office",0.4,400.0,2000.0,google,mp3
+32,6,"is the kitchen fire","is the kitchen humidifier currently working",0.3,300.0,2500.0,flite,mp3
+32,7,"is the television in the kitchen turned off","is the television in the kitchen turned off",0.4,400.0,2000.0,flite,mp3
+32,8,"","is anyone watching tv in the den",0.4,400.0,2000.0,espeak,mp3
+32,9,"is the thermometer working right","is the gym thermometer working right",0.3,300.0,2500.0,google,mp3
+32,10,"is the working","is the dehumidifier in the bathroom working",0.4,400.0,2000.0,espeak,mp3
+32,11,"how long does the thermometer in the bathroom stay above","how warm does the thermometer in the bathroom say that that room is",0.4,400.0,2000.0,google,mp3
+32,12,"in the house","is the burglar dectector in the house inoperable",0.4,400.0,2000.0,espeak,mp3
+32,13,"is the thermostat in the bedroom off","is the thermostat in the bedroom off",0.4,400.0,2000.0,google,mp3
+32,14,"is the smoke detector in the hallway on","is the smoke detector in the hallway on",0.4,400.0,2000.0,flite,mp3
+32,15,"i could hear working","are the hallway thermometers working",0.5,500.0,1500.0,flite,mp3
+32,16,"are the living room turned on","are the living room thermostats on",0.5,500.0,1500.0,espeak,mp3
+32,17,"what are the temperature leading to the house thermometer","what are the temperature readings of the house thermometers",0.5,500.0,1500.0,google,mp3
+32,18,"","is the alarm ready",0.5,500.0,1500.0,espeak,mp3
+32,19,"is someone talking on the phone in the living room","is someone talking on the phone in the livingroom",0.5,500.0,1500.0,google,mp3
+32,20,"off or on","are the office sensors off or on",0.5,500.0,1500.0,flite,mp3
+32,21,"is the refrigerator in the kitchen on","is the refrigerator in the kitchen on",0.5,500.0,1500.0,google,mp3
+32,22,"in the hallway","is the tv working well in the hallway",0.5,500.0,1500.0,espeak,mp3
+32,23,"are all the fire alarms in the","are all the fire alarms in the office on",0.5,500.0,1500.0,google,mp3
+32,24,"is there smoke in the","is there smoke in the gym",0.5,500.0,1500.0,espeak,mp3
+32,25,"is the thermometer in the right","does the thermometer in the gym work right",0.5,500.0,1500.0,google,mp3
+32,26,"are the yellow ones not looking","are the burglary alarms in the livingroom not working",0.3,300.0,2500.0,flite,mp3
+32,27,"dining room working","are the dining room thermostats working",0.3,300.0,2500.0,espeak,mp3
+32,28,"is the clock in the hallway broken","is the clock in the hallway broken",0.3,300.0,2500.0,flite,mp3
+32,29,"are the clocks inside the home office turned off","are the clocks inside the home office turned off",0.3,300.0,2500.0,espeak,mp3
+33,0,"","are the phones in the office on",0.3,300.0,2500.0,google,mp3
+33,1,"is working on the","are the ranges working on the stove",0.3,300.0,2500.0,flite,mp3
+33,2,"is the whole mattress scary or plain right now","is the home office stereo playing right now",0.3,300.0,2500.0,google,mp3
+33,3,"does anyone a kitchen like","does anyone have the kitchen lights on",0.3,300.0,2500.0,flite,mp3
+33,4,"","check the sensors in the livingroom.",0.4,400.0,2000.0,espeak,mp3
+33,5,"","do the tvs work",0.4,400.0,2000.0,flite,mp3
+33,6,"","are the lights on in the ha;;way",0.4,400.0,2000.0,espeak,mp3
+33,7,"the radio in the office","the radio in the office working",0.3,300.0,2500.0,google,mp3
+33,8,"are the in the home office turned on right now","are the tvs in the home office turned on right now",0.4,400.0,2000.0,google,mp3
+33,9,"are the motion detectors in the living room not working correctly","are the motion detectors in the living-room not working correctly",0.4,400.0,2000.0,flite,mp3
+33,10,"can i make a call","can i make a call in the gym",0.3,300.0,2500.0,espeak,mp3
+33,11,"can you check to see if the security alarms in the hallway are working properly","can you check to see if the security alarms in the hallway are working properly",0.4,400.0,2000.0,flite,mp3
+33,12,"","are the boomboxes in the home office on",0.4,400.0,2000.0,espeak,mp3
+33,13,"what","what level of safety is alice",0.4,400.0,2000.0,flite,mp3
+33,14,"car","is the telephone in the livingroom malfunctioning at all",0.4,400.0,2000.0,espeak,mp3
+33,15,"are the burglar alarms","are the burglar alarms in the home office on",0.5,500.0,1500.0,flite,mp3
+33,16,"is the living room smoke detector working properly","is the living room smoke detector working properly",0.5,500.0,1500.0,google,mp3
+33,17,"is anyone listening","is anyone asleep",0.5,500.0,1500.0,flite,mp3
+33,18,"have you shut off in the living room","have we shut off the humidifiers in the living room",0.5,500.0,1500.0,espeak,mp3
+33,19,"is the bedroom right now","is the bedroom phone turned on right now",0.5,500.0,1500.0,flite,mp3
+33,20,"is someone using the hallway thermometer","is someone using the hallway thermometers",0.5,500.0,1500.0,espeak,mp3
+33,21,"is the telephone in the green building","is the telephone in the gym broken",0.5,500.0,1500.0,google,mp3
+33,22,"are the smoke alarms in the office turned on","are the smoke alarms in the office turned on",0.5,500.0,1500.0,google,mp3
+33,23,"are there any lights out in the dining room","are there any lights out in the dining room",0.5,500.0,1500.0,flite,mp3
+33,24,"returning from","is the temperature in the bedroom off",0.5,500.0,1500.0,espeak,mp3
+33,25,"did you turn off the radio in the","did you turn off the radio in the office",0.5,500.0,1500.0,flite,mp3
+33,26,"spoken word","do the smoke detectors in the kitchen work",0.3,300.0,2500.0,espeak,mp3
+33,27,"are the thermostats in the living room on","are the thermostats in the living room on",0.3,300.0,2500.0,google,mp3
+33,28,"is everything ok with the in the hallways","is everything okay with the sensors in the hallways",0.3,300.0,2500.0,flite,mp3
+33,29,"can you hear the kitchen blender","can you hear the kitchen blender",0.3,300.0,2500.0,google,mp3
+34,0,"ill be phone and then ill be fine","are the phones in the office on",0.3,300.0,2500.0,google,mp3
+34,1,"how do i injure working on this phone","are the ranges working on the stove",0.3,300.0,2500.0,flite,mp3
+34,2,"its a hallmark experience playing right now","is the home office stereo playing right now",0.3,300.0,2500.0,google,mp3
+34,3,"that anyone hankerchiefs right one","does anyone have the kitchen lights on",0.3,300.0,2500.0,flite,mp3
+34,4,"help blew a bloom","check the sensors in the livingroom.",0.4,400.0,2000.0,espeak,mp3
+34,5,"give a tv whats worth","do the tvs work",0.4,400.0,2000.0,flite,mp3
+34,6,"on the light sounding alarm wave","are the lights on in the ha;;way",0.4,400.0,2000.0,espeak,mp3
+34,7,"the radio is not working","the radio in the office working",0.3,300.0,2500.0,google,mp3
+34,8,"by the pbs and the home office undone right now","are the tvs in the home office turned on right now",0.4,400.0,2000.0,google,mp3
+34,9,"by the most since depicted in the living not working correctly","are the motion detectors in the living-room not working correctly",0.4,400.0,2000.0,flite,mp3
+34,10,"and i will at always bloom","can i make a call in the gym",0.3,300.0,2500.0,espeak,mp3
+34,11,"can you check the alarm in the hallway are working properly","can you check to see if the security alarms in the hallway are working properly",0.4,400.0,2000.0,flite,mp3
+34,12,"on the room whole market arm","are the boomboxes in the home office on",0.4,400.0,2000.0,espeak,mp3
+34,13,"what littlest they tee boat","what level of safety is alice",0.4,400.0,2000.0,flite,mp3
+34,14,"in the fairly blue milk","is the telephone in the livingroom malfunctioning at all",0.4,400.0,2000.0,espeak,mp3
+34,15,"i was not to come","are the burglar alarms in the home office on",0.5,500.0,1500.0,flite,mp3
+34,16,"this olivia smells a cafe while in public","is the living room smoke detector working properly",0.5,500.0,1500.0,google,mp3
+34,17,"is anyone listening","is anyone asleep",0.5,500.0,1500.0,flite,mp3
+34,18,"every shutter having here a good time are using runes","have we shut off the humidifiers in the living room",0.5,500.0,1500.0,espeak,mp3
+34,19,"its a bedroom so gentle right now","is the bedroom phone turned on right now",0.5,500.0,1500.0,flite,mp3
+34,20,"its term young you link appalling thermometer","is someone using the hallway thermometers",0.5,500.0,1500.0,espeak,mp3
+34,21,"seems the telephone in the thin building","is the telephone in the gym broken",0.5,500.0,1500.0,google,mp3
+34,22,"are the smoke alarm in the office turned on","are the smoke alarms in the office turned on",0.5,500.0,1500.0,google,mp3
+34,23,"are there any lights out in the dining room","are there any lights out in the dining room",0.5,500.0,1500.0,flite,mp3
+34,24,"in the event returning the man revolve","is the temperature in the bedroom off",0.5,500.0,1500.0,espeak,mp3
+34,25,"can you turn up lay low in the oven","did you turn off the radio in the office",0.5,500.0,1500.0,flite,mp3
+34,26,"do miss loeb did after sending her kids learn","do the smoke detectors in the kitchen work",0.3,300.0,2500.0,espeak,mp3
+34,27,"are the thermostat in the living room on","are the thermostats in the living room on",0.3,300.0,2500.0,google,mp3
+34,28,"is everything ok with the centers and the highways","is everything okay with the sensors in the hallways",0.3,300.0,2500.0,flite,mp3
+34,29,"can you hear the kitchen blender","can you hear the kitchen blender",0.3,300.0,2500.0,google,mp3
+35,0,"","are the phones in the office on",0.3,300.0,2500.0,google,mp3
+35,1,"","are the ranges working on the stove",0.3,300.0,2500.0,flite,mp3
+35,2,"home and office here","is the home office stereo playing right now",0.3,300.0,2500.0,google,mp3
+35,3,"","does anyone have the kitchen lights on",0.3,300.0,2500.0,flite,mp3
+35,4,"","check the sensors in the livingroom.",0.4,400.0,2000.0,espeak,mp3
+35,5,"","do the tvs work",0.4,400.0,2000.0,flite,mp3
+35,6,"","are the lights on in the ha;;way",0.4,400.0,2000.0,espeak,mp3
+35,7,"the radio known accordingly","the radio in the office working",0.3,300.0,2500.0,google,mp3
+35,8,"","are the tvs in the home office turned on right now",0.4,400.0,2000.0,google,mp3
+35,9,"","are the motion detectors in the living-room not working correctly",0.4,400.0,2000.0,flite,mp3
+35,10,"","can i make a call in the gym",0.3,300.0,2500.0,espeak,mp3
+35,11,"","can you check to see if the security alarms in the hallway are working properly",0.4,400.0,2000.0,flite,mp3
+35,12,"","are the boomboxes in the home office on",0.4,400.0,2000.0,espeak,mp3
+35,13,"","what level of safety is alice",0.4,400.0,2000.0,flite,mp3
+35,14,"","is the telephone in the livingroom malfunctioning at all",0.4,400.0,2000.0,espeak,mp3
+35,15,"","are the burglar alarms in the home office on",0.5,500.0,1500.0,flite,mp3
+35,16,"","is the living room smoke detector working properly",0.5,500.0,1500.0,google,mp3
+35,17,"","is anyone asleep",0.5,500.0,1500.0,flite,mp3
+35,18,"","have we shut off the humidifiers in the living room",0.5,500.0,1500.0,espeak,mp3
+35,19,"","is the bedroom phone turned on right now",0.5,500.0,1500.0,flite,mp3
+35,20,"","is someone using the hallway thermometers",0.5,500.0,1500.0,espeak,mp3
+35,21,"","is the telephone in the gym broken",0.5,500.0,1500.0,google,mp3
+35,22,"","are the smoke alarms in the office turned on",0.5,500.0,1500.0,google,mp3
+35,23,"","are there any lights out in the dining room",0.5,500.0,1500.0,flite,mp3
+35,24,"","is the temperature in the bedroom off",0.5,500.0,1500.0,espeak,mp3
+35,25,"","did you turn off the radio in the office",0.5,500.0,1500.0,flite,mp3
+35,26,"","do the smoke detectors in the kitchen work",0.3,300.0,2500.0,espeak,mp3
+35,27,"","are the thermostats in the living room on",0.3,300.0,2500.0,google,mp3
+35,28,"","is everything okay with the sensors in the hallways",0.3,300.0,2500.0,flite,mp3
+35,29,"","can you hear the kitchen blender",0.3,300.0,2500.0,google,mp3
+36,0,"the burglar alarm is set","is the burglar alarm set",0.3,300.0,2500.0,google,mp3
+36,1,"talking among the people","are the tv's in the livingroom on",0.3,300.0,2500.0,espeak,mp3
+36,2,"theres a cat in the hallway","is the clock in the hallway telling the correct time",0.3,300.0,2500.0,google,mp3
+36,3,"","does the clock in the kitchen show the correct time",0.4,400.0,2000.0,espeak,mp3
+36,4,"","are the window units in the living room working",0.4,400.0,2000.0,google,mp3
+36,5,"","is the house safe from fire",0.4,400.0,2000.0,flite,mp3
+36,6,"the alarm in the office is turned on","is the alarm in the office turned on or off",0.4,400.0,2000.0,google,mp3
+36,7,"","what do the sensors in the gym read",0.4,400.0,2000.0,espeak,mp3
+36,8,"can you tell me if the scanner adjusts","could you tell me which room the stereo is in",0.4,400.0,2000.0,google,mp3
+36,9,"","is the air conditioner in the office on at the moment",0.4,400.0,2000.0,espeak,mp3
+36,10,"is the thermostat in the bathroom working","is the thermostat in the bathroom working",0.4,400.0,2000.0,google,mp3
+36,11,"","is the blender turned on",0.4,400.0,2000.0,flite,mp3
+36,12,"is the refrigerator in the kitchen on","is the refridgerator in the kitchen on",0.4,400.0,2000.0,google,mp3
+36,13,"","is there expired food in the fridge",0.4,400.0,2000.0,flite,mp3
+36,14,"there is a ball in a marker in the hallway","were the lights turned off in the hallway",0.3,300.0,2500.0,espeak,mp3
+36,15,"","are the hallway phones okay",0.5,500.0,1500.0,espeak,mp3
+36,16,"is the alarm in the bedroom broken","is the alarm in the bedroom broken",0.5,500.0,1500.0,google,mp3
+36,17,"","where is the air on at",0.3,300.0,2500.0,flite,mp3
+36,18,"are the smoke detectors in the living room working","are the smoke detectors in the living room functioning",0.5,500.0,1500.0,google,mp3
+36,19,"","are the device in the livingroom off",0.5,500.0,1500.0,flite,mp3
+36,20,"is the music in the home office on","is the music in the home office off",0.5,500.0,1500.0,google,mp3
+36,21,"it began in the kitchen","is the tv in the kitchen still playing",0.5,500.0,1500.0,flite,mp3
+36,22,"are the home avenues in stock","are the home office lights off",0.5,500.0,1500.0,google,mp3
+36,23,"are you having problems on the horizon","are you getting data from all the sensors in my office",0.5,500.0,1500.0,espeak,mp3
+36,24,"are the alarms on in the bedroom","are the alarms on in the bedroom",0.5,500.0,1500.0,google,mp3
+36,25,"","did i leave the humidifier in the bathroom on or off",0.5,500.0,1500.0,flite,mp3
+36,26,"is the cat tired","is the cat tired",0.3,300.0,2500.0,espeak,mp3
+36,27,"welcome to the present day","what is the snow forecasted for today",0.3,300.0,2500.0,flite,mp3
+36,28,"are the trans in the toddy","are the sensors operational in the study",0.3,300.0,2500.0,espeak,mp3
+36,29,"are the smoke detectors in the living room working properly","are the smoke detectors in the living room working correctly",0.3,300.0,2500.0,google,mp3
+37,0,"is the burglar alarm set","is the burglar alarm set",0.3,300.0,2500.0,google,mp3
+37,1,"on the tv set remote","are the tv's in the livingroom on",0.3,300.0,2500.0,espeak,mp3
+37,2,"is the clock in the hallway telling the correct time","is the clock in the hallway telling the correct time",0.3,300.0,2500.0,google,mp3
+37,3,"","does the clock in the kitchen show the correct time",0.4,400.0,2000.0,espeak,mp3
+37,4,"are the window units in the living room working","are the window units in the living room working",0.4,400.0,2000.0,google,mp3
+37,5,"","is the house safe from fire",0.4,400.0,2000.0,flite,mp3
+37,6,"is the alarm in the office turned off","is the alarm in the office turned on or off",0.4,400.0,2000.0,google,mp3
+37,7,"","what do the sensors in the gym read",0.4,400.0,2000.0,espeak,mp3
+37,8,"could you tell me which room the stereo is in","could you tell me which room the stereo is in",0.4,400.0,2000.0,google,mp3
+37,9,"the air conditioner in the office is on at the moment","is the air conditioner in the office on at the moment",0.4,400.0,2000.0,espeak,mp3
+37,10,"is the thermostat in the bathroom working","is the thermostat in the bathroom working",0.4,400.0,2000.0,google,mp3
+37,11,"is the blender turned on","is the blender turned on",0.4,400.0,2000.0,flite,mp3
+37,12,"is the refrigerator in the kitchen off","is the refridgerator in the kitchen on",0.4,400.0,2000.0,google,mp3
+37,13,"is there a in the fridge","is there expired food in the fridge",0.4,400.0,2000.0,flite,mp3
+37,14,"when the lights turned off in the hallway","were the lights turned off in the hallway",0.3,300.0,2500.0,espeak,mp3
+37,15,"","are the hallway phones okay",0.5,500.0,1500.0,espeak,mp3
+37,16,"is the alarm in the bedroom broken","is the alarm in the bedroom broken",0.5,500.0,1500.0,google,mp3
+37,17,"where is the mail at","where is the air on at",0.3,300.0,2500.0,flite,mp3
+37,18,"either mice in the living room pantry","are the smoke detectors in the living room functioning",0.5,500.0,1500.0,google,mp3
+37,19,"","are the device in the livingroom off",0.5,500.0,1500.0,flite,mp3
+37,20,"is the music in the home office off","is the music in the home office off",0.5,500.0,1500.0,google,mp3
+37,21,"is the tv in the kitchen still playing","is the tv in the kitchen still playing",0.5,500.0,1500.0,flite,mp3
+37,22,"are the home office lights off","are the home office lights off",0.5,500.0,1500.0,google,mp3
+37,23,"","are you getting data from all the sensors in my office",0.5,500.0,1500.0,espeak,mp3
+37,24,"are the alarms on in the bedroom","are the alarms on in the bedroom",0.5,500.0,1500.0,google,mp3
+37,25,"","did i leave the humidifier in the bathroom on or off",0.5,500.0,1500.0,flite,mp3
+37,26,"","is the cat tired",0.3,300.0,2500.0,espeak,mp3
+37,27,"what is the snow forecast for today","what is the snow forecasted for today",0.3,300.0,2500.0,flite,mp3
+37,28,"","are the sensors operational in the study",0.3,300.0,2500.0,espeak,mp3
+37,29,"are the thermostats in the living room working correctly","are the smoke detectors in the living room working correctly",0.3,300.0,2500.0,google,mp3
+38,0,"is the burgler alarm set","is the burglar alarm set",0.3,300.0,2500.0,google,mp3
+38,1,"","are the tv's in the livingroom on",0.3,300.0,2500.0,espeak,mp3
+38,2,"is the clock in the hallway telling the correct time","is the clock in the hallway telling the correct time",0.3,300.0,2500.0,google,mp3
+38,3,"does the clock in the kitchen show the correct time","does the clock in the kitchen show the correct time",0.4,400.0,2000.0,espeak,mp3
+38,4,"","are the window units in the living room working",0.4,400.0,2000.0,google,mp3
+38,5,"is the house safe from fire","is the house safe from fire",0.4,400.0,2000.0,flite,mp3
+38,6,"is the alarm in the office turned on low","is the alarm in the office turned on or off",0.4,400.0,2000.0,google,mp3
+38,7,"","what do the sensors in the gym read",0.4,400.0,2000.0,espeak,mp3
+38,8,"could you tell which room the stereo is in","could you tell me which room the stereo is in",0.4,400.0,2000.0,google,mp3
+38,9,"","is the air conditioner in the office on at the moment",0.4,400.0,2000.0,espeak,mp3
+38,10,"is the thermostat in the bathroom working","is the thermostat in the bathroom working",0.4,400.0,2000.0,google,mp3
+38,11,"is the blender turned on","is the blender turned on",0.4,400.0,2000.0,flite,mp3
+38,12,"is the refrigerator in the kitchen on","is the refridgerator in the kitchen on",0.4,400.0,2000.0,google,mp3
+38,13,"","is there expired food in the fridge",0.4,400.0,2000.0,flite,mp3
+38,14,"is the light turned off in the hallway","were the lights turned off in the hallway",0.3,300.0,2500.0,espeak,mp3
+38,15,"","are the hallway phones okay",0.5,500.0,1500.0,espeak,mp3
+38,16,"","is the alarm in the bedroom broken",0.5,500.0,1500.0,google,mp3
+38,17,"","where is the air on at",0.3,300.0,2500.0,flite,mp3
+38,18,"are the smoke detectors in the living room functioning","are the smoke detectors in the living room functioning",0.5,500.0,1500.0,google,mp3
+38,19,"","are the device in the livingroom off",0.5,500.0,1500.0,flite,mp3
+38,20,"","is the music in the home office off",0.5,500.0,1500.0,google,mp3
+38,21,"is the tv in the kitchen still playing","is the tv in the kitchen still playing",0.5,500.0,1500.0,flite,mp3
+38,22,"are the home office lights off","are the home office lights off",0.5,500.0,1500.0,google,mp3
+38,23,"","are you getting data from all the sensors in my office",0.5,500.0,1500.0,espeak,mp3
+38,24,"are the alarms on in the bedroom","are the alarms on in the bedroom",0.5,500.0,1500.0,google,mp3
+38,25,"","did i leave the humidifier in the bathroom on or off",0.5,500.0,1500.0,flite,mp3
+38,26,"is the cat out","is the cat tired",0.3,300.0,2500.0,espeak,mp3
+38,27,"","what is the snow forecasted for today",0.3,300.0,2500.0,flite,mp3
+38,28,"","are the sensors operational in the study",0.3,300.0,2500.0,espeak,mp3
+38,29,"are the smoke detectors in the living room working properly","are the smoke detectors in the living room working correctly",0.3,300.0,2500.0,google,mp3
+39,0,"kitchen","is the kitchen humidifier blowing steam",0.3,300.0,2500.0,google,mp3
+39,1,"","is someone using a humdifier",0.3,300.0,2500.0,flite,mp3
+39,2,"","can the burglar enter the bedroom without the alarm sounding",0.3,300.0,2500.0,espeak,mp3
+39,3,"","is the office radio on",0.3,300.0,2500.0,flite,mp3
+39,4,"","does the phone in the living room give a dial tone",0.4,400.0,2000.0,espeak,mp3
+39,5,"washer","are the hall phones working",0.3,300.0,2500.0,google,mp3
+39,6,"phone","did i leave the phones in the office on",0.4,400.0,2000.0,espeak,mp3
+39,7,"is someone trying to call someone in the hallway","is someone trying to call someone in the hallway",0.4,400.0,2000.0,google,mp3
+39,8,"room speakers working","are the dining room speakers working",0.3,300.0,2500.0,espeak,mp3
+39,9,"","did i turn off the stove",0.4,400.0,2000.0,flite,mp3
+39,10,"","is the time frozen in the hizzy",0.4,400.0,2000.0,espeak,mp3
+39,11,"right now","what's the snow's intensity right now",0.4,400.0,2000.0,flite,mp3
+39,12,"","are the house alarms on",0.4,400.0,2000.0,espeak,mp3
+39,13,"the right time","is the clock in the livingroom showing the right time",0.4,400.0,2000.0,google,mp3
+39,14,"in the kitchen","is the humidifier switched off in the kitchen",0.4,400.0,2000.0,espeak,mp3
+39,15,"","can you confirm if the security alarms in the gym need repair",0.5,500.0,1500.0,flite,mp3
+39,16,"","are the tvs in the house on",0.5,500.0,1500.0,espeak,mp3
+39,17,"what is the","what is the quantity of eggs in the fridge",0.5,500.0,1500.0,flite,mp3
+39,18,"","why does it say it's hotter in the dining room than it actually is",0.5,500.0,1500.0,espeak,mp3
+39,19,"","are the gym alarms broken",0.5,500.0,1500.0,google,mp3
+39,20,"still","do you still have humidifiers in the house that function properly",0.5,500.0,1500.0,espeak,mp3
+39,21,"in the dining room hall","is the heat in the dining room off",0.5,500.0,1500.0,google,mp3
+39,22,"where is the tv at","where the tvs",0.3,300.0,2500.0,flite,mp3
+39,23,"in the kitchen with","does the tv in the kitchen work",0.5,500.0,1500.0,flite,mp3
+39,24,"the bathroom","is the bathroom vent on",0.5,500.0,1500.0,espeak,mp3
+39,25,"is the clock in the living room working correctly","is the clock in the livingroom working correctly",0.3,300.0,2500.0,google,mp3
+39,26,"is anyone using the light in the hallway","is anyone using the lights in the hallway",0.3,300.0,2500.0,flite,mp3
+39,27,"is my dining room clock on","is my dining room clock on",0.3,300.0,2500.0,google,mp3
+39,28,"please remember to turn off the appliance in the next room","please remember to turn off the appliances in the next room",0.3,300.0,2500.0,flite,mp3
+39,29,"what is wrong with the kitchen phone","what is wrong with the kitchen stove",0.3,300.0,2500.0,espeak,mp3
+40,0,"kitchen humidifier ceiling","is the kitchen humidifier blowing steam",0.3,300.0,2500.0,google,mp3
+40,1,"","is someone using a humdifier",0.3,300.0,2500.0,flite,mp3
+40,2,"moon man","can the burglar enter the bedroom without the alarm sounding",0.3,300.0,2500.0,espeak,mp3
+40,3,"","is the office radio on",0.3,300.0,2500.0,flite,mp3
+40,4,"","does the phone in the living room give a dial tone",0.4,400.0,2000.0,espeak,mp3
+40,5,"are the hawthornes working","are the hall phones working",0.3,300.0,2500.0,google,mp3
+40,6,"dialing the phone","did i leave the phones in the office on",0.4,400.0,2000.0,espeak,mp3
+40,7,"is someone trying to call someone in the hallway","is someone trying to call someone in the hallway",0.4,400.0,2000.0,google,mp3
+40,8,"are the dining room speakers working","are the dining room speakers working",0.3,300.0,2500.0,espeak,mp3
+40,9,"","did i turn off the stove",0.4,400.0,2000.0,flite,mp3
+40,10,"is the time  running","is the time frozen in the hizzy",0.4,400.0,2000.0,espeak,mp3
+40,11,"whats the  right now","what's the snow's intensity right now",0.4,400.0,2000.0,flite,mp3
+40,12,"","are the house alarms on",0.4,400.0,2000.0,espeak,mp3
+40,13,"is the clock in the living room showing the right time","is the clock in the livingroom showing the right time",0.4,400.0,2000.0,google,mp3
+40,14,"is the  in the kitchen","is the humidifier switched off in the kitchen",0.4,400.0,2000.0,espeak,mp3
+40,15,"can you confirm  the alarms ","can you confirm if the security alarms in the gym need repair",0.5,500.0,1500.0,flite,mp3
+40,16,"","are the tvs in the house on",0.5,500.0,1500.0,espeak,mp3
+40,17,"what is the  event ","what is the quantity of eggs in the fridge",0.5,500.0,1500.0,flite,mp3
+40,18,"why does it","why does it say it's hotter in the dining room than it actually is",0.5,500.0,1500.0,espeak,mp3
+40,19,"","are the gym alarms broken",0.5,500.0,1500.0,google,mp3
+40,20,"do you feel that humidifier  function properly","do you still have humidifiers in the house that function properly",0.5,500.0,1500.0,espeak,mp3
+40,21," dining room ","is the heat in the dining room off",0.5,500.0,1500.0,google,mp3
+40,22,"","where the tvs",0.3,300.0,2500.0,flite,mp3
+40,23," the kitchen","does the tv in the kitchen work",0.5,500.0,1500.0,flite,mp3
+40,24,"in the bathroom ","is the bathroom vent on",0.5,500.0,1500.0,espeak,mp3
+40,25,"is the clock in the living room working correctly","is the clock in the livingroom working correctly",0.3,300.0,2500.0,google,mp3
+40,26,"is anyone using the light in the hallway","is anyone using the lights in the hallway",0.3,300.0,2500.0,flite,mp3
+40,27,"is my dining room clock on","is my dining room clock on",0.3,300.0,2500.0,google,mp3
+40,28,"please remember to turn off the appliance within the next ","please remember to turn off the appliances in the next room",0.3,300.0,2500.0,flite,mp3
+40,29,"your ","what is wrong with the kitchen stove",0.3,300.0,2500.0,espeak,mp3
+41,0,"humidifier","is the kitchen humidifier blowing steam",0.3,300.0,2500.0,google,mp3
+41,1,"","is someone using a humdifier",0.3,300.0,2500.0,flite,mp3
+41,2,"","can the burglar enter the bedroom without the alarm sounding",0.3,300.0,2500.0,espeak,mp3
+41,3,"","is the office radio on",0.3,300.0,2500.0,flite,mp3
+41,4,"","does the phone in the living room give a dial tone",0.4,400.0,2000.0,espeak,mp3
+41,5,"are the working","are the hall phones working",0.3,300.0,2500.0,google,mp3
+41,6,"","did i leave the phones in the office on",0.4,400.0,2000.0,espeak,mp3
+41,7,"is someone trying to call someone in the hallway","is someone trying to call someone in the hallway",0.4,400.0,2000.0,google,mp3
+41,8,"","are the dining room speakers working",0.3,300.0,2500.0,espeak,mp3
+41,9,"","did i turn off the stove",0.4,400.0,2000.0,flite,mp3
+41,10,"","is the time frozen in the hizzy",0.4,400.0,2000.0,espeak,mp3
+41,11,"right now","what's the snow's intensity right now",0.4,400.0,2000.0,flite,mp3
+41,12,"","are the house alarms on",0.4,400.0,2000.0,espeak,mp3
+41,13,"is the clock in the living room showing the right time","is the clock in the livingroom showing the right time",0.4,400.0,2000.0,google,mp3
+41,14,"","is the humidifier switched off in the kitchen",0.4,400.0,2000.0,espeak,mp3
+41,15,"","can you confirm if the security alarms in the gym need repair",0.5,500.0,1500.0,flite,mp3
+41,16,"","are the tvs in the house on",0.5,500.0,1500.0,espeak,mp3
+41,17,"","what is the quantity of eggs in the fridge",0.5,500.0,1500.0,flite,mp3
+41,18,"","why does it say it's hotter in the dining room than it actually is",0.5,500.0,1500.0,espeak,mp3
+41,19,"are the broken","are the gym alarms broken",0.5,500.0,1500.0,google,mp3
+41,20,"","do you still have humidifiers in the house that function properly",0.5,500.0,1500.0,espeak,mp3
+41,21,"is the in the dining room off","is the heat in the dining room off",0.5,500.0,1500.0,google,mp3
+41,22,"wear the","where the tvs",0.3,300.0,2500.0,flite,mp3
+41,23,"can be in the kitchen","does the tv in the kitchen work",0.5,500.0,1500.0,flite,mp3
+41,24,"","is the bathroom vent on",0.5,500.0,1500.0,espeak,mp3
+41,25,"is the clock in the living room working correctly","is the clock in the livingroom working correctly",0.3,300.0,2500.0,google,mp3
+41,26,"is anyone using the light in the","is anyone using the lights in the hallway",0.3,300.0,2500.0,flite,mp3
+41,27,"is my dining room back on","is my dining room clock on",0.3,300.0,2500.0,google,mp3
+41,28,"please remember to turn off the appliance","please remember to turn off the appliances in the next room",0.3,300.0,2500.0,flite,mp3
+41,29,"","what is wrong with the kitchen stove",0.3,300.0,2500.0,espeak,mp3
+42,0,"","are the phones in the bedroom working as intended",0.3,300.0,2500.0,espeak,mp3
+42,1,"what is the thermometer reading in the house","what is the lowest thermometer reading in the house",0.3,300.0,2500.0,google,mp3
+42,2,"working order","is the humidifier int he bathroom in working order and turned on",0.3,300.0,2500.0,espeak,mp3
+42,3,"in the past three days","is the cat sleeping",0.3,300.0,2500.0,google,mp3
+42,4,"i believe it not working","are the living room clocks not working",0.3,300.0,2500.0,flite,mp3
+42,5,"i dont have seven bars","are the house phones off",0.4,400.0,2000.0,google,mp3
+42,6,"","is the telephone in the livingroom malfunctioning",0.4,400.0,2000.0,flite,mp3
+42,7,"i think the humidifier is running in the house","are the humidifiers running in the house",0.3,300.0,2500.0,google,mp3
+42,8,"","has anyone turned off the hallway smoke detectors",0.4,400.0,2000.0,espeak,mp3
+42,9,"where is the clock","where is the clock",0.4,400.0,2000.0,google,mp3
+42,10,"","are the tvs in the living room turned on",0.4,400.0,2000.0,espeak,mp3
+42,11,"put the music on right now","is the music on right now",0.4,400.0,2000.0,google,mp3
+42,12,"still working","are the hallway phones still working",0.4,400.0,2000.0,flite,mp3
+42,13,"did i turn off the phone","did i turn off the phone",0.4,400.0,2000.0,google,mp3
+42,14,"what time does the clock imaging take","what time does the clock in the gym say",0.4,400.0,2000.0,flite,mp3
+42,15,"by the way you said it","are the ranges broken",0.5,500.0,1500.0,google,mp3
+42,16,"what time do the","what time do the gym clocks read",0.5,500.0,1500.0,espeak,mp3
+42,17,"","does the phone in the kitchen work properly",0.5,500.0,1500.0,google,mp3
+42,18,"","is the tv in the home office running",0.5,500.0,1500.0,flite,mp3
+42,19,"did the hallway work","do the hallway's ac units work",0.5,500.0,1500.0,google,mp3
+42,20,"","is the phone in the bathroom disabled",0.5,500.0,1500.0,flite,mp3
+42,21,"correctly","is the thermostate in the diningroom working correctly",0.3,300.0,2500.0,espeak,mp3
+42,22,"what does the thermometer in the bathroom say","what does the thermometer in the bathroom say",0.5,500.0,1500.0,espeak,mp3
+42,23,"","is every gauge in the study working",0.5,500.0,1500.0,google,mp3
+42,24,"doctor in hallway one","does the ac in the hallway work",0.3,300.0,2500.0,flite,mp3
+42,25,"did you check the single line","did you check the gym alarms",0.5,500.0,1500.0,google,mp3
+42,26,"","are the dining room lights broke",0.3,300.0,2500.0,flite,mp3
+42,27,"can we turn the thermometer off","have you turned the burners off",0.3,300.0,2500.0,espeak,mp3
+42,28,"did you remember to check laundry in pattern room","did you remember to set the alarm in the powder room",0.3,300.0,2500.0,google,mp3
+42,29,"","can you list the location of all of the tvs in your home",0.3,300.0,2500.0,espeak,mp3
+43,0,"on the in the and where do you understand it","are the phones in the bedroom working as intended",0.3,300.0,2500.0,espeak,mp3
+43,1,"what is the your mom is still reading in the house","what is the lowest thermometer reading in the house",0.3,300.0,2500.0,google,mp3
+43,2,"in the where the and soon on","is the humidifier int he bathroom in working order and turned on",0.3,300.0,2500.0,espeak,mp3
+43,3,"is the changing","is the cat sleeping",0.3,300.0,2500.0,google,mp3
+43,4,"i believe in not looking","are the living room clocks not working",0.3,300.0,2500.0,flite,mp3
+43,5,"are the house full of dogs","are the house phones off",0.4,400.0,2000.0,google,mp3
+43,6,"","is the telephone in the livingroom malfunctioning",0.4,400.0,2000.0,flite,mp3
+43,7,"i i am in the house","are the humidifiers running in the house",0.3,300.0,2500.0,google,mp3
+43,8,"does anyone turns off the","has anyone turned off the hallway smoke detectors",0.4,400.0,2000.0,espeak,mp3
+43,9,"where is the bus","where is the clock",0.4,400.0,2000.0,google,mp3
+43,10,"in the room turns on","are the tvs in the living room turned on",0.4,400.0,2000.0,espeak,mp3
+43,11,"is the music i am right now","is the music on right now",0.4,400.0,2000.0,google,mp3
+43,12,"are the hallway still looking","are the hallway phones still working",0.4,400.0,2000.0,flite,mp3
+43,13,"did i turn off the phone","did i turn off the phone",0.4,400.0,2000.0,google,mp3
+43,14,"what time does the take","what time does the clock in the gym say",0.4,400.0,2000.0,flite,mp3
+43,15,"are the","are the ranges broken",0.5,500.0,1500.0,google,mp3
+43,16,"what time do the","what time do the gym clocks read",0.5,500.0,1500.0,espeak,mp3
+43,17,"does the phone in the whats happening","does the phone in the kitchen work properly",0.5,500.0,1500.0,google,mp3
+43,18,"","is the tv in the home office running",0.5,500.0,1500.0,flite,mp3
+43,19,"to the hallway that means it works","do the hallway's ac units work",0.5,500.0,1500.0,google,mp3
+43,20,"","is the phone in the bathroom disabled",0.5,500.0,1500.0,flite,mp3
+43,21,"in the room where internationally","is the thermostate in the diningroom working correctly",0.3,300.0,2500.0,espeak,mp3
+43,22,"what term in the thermometer in the says","what does the thermometer in the bathroom say",0.5,500.0,1500.0,espeak,mp3
+43,23,"is everything in the steady","is every gauge in the study working",0.5,500.0,1500.0,google,mp3
+43,24,"got the ac however","does the ac in the hallway work",0.3,300.0,2500.0,flite,mp3
+43,25,"","did you check the gym alarms",0.5,500.0,1500.0,google,mp3
+43,26,"i room like","are the dining room lights broke",0.3,300.0,2500.0,flite,mp3
+43,27,"have you seen the moon in mars","have you turned the burners off",0.3,300.0,2500.0,espeak,mp3
+43,28,"","did you remember to set the alarm in the powder room",0.3,300.0,2500.0,google,mp3
+43,29,"and the in the and in your own","can you list the location of all of the tvs in your home",0.3,300.0,2500.0,espeak,mp3
+44,0,"on the intended","are the phones in the bedroom working as intended",0.3,300.0,2500.0,espeak,mp3
+44,1,"what is the thermometer in the house","what is the lowest thermometer reading in the house",0.3,300.0,2500.0,google,mp3
+44,2,"","is the humidifier int he bathroom in working order and turned on",0.3,300.0,2500.0,espeak,mp3
+44,3,"is the","is the cat sleeping",0.3,300.0,2500.0,google,mp3
+44,4,"working","are the living room clocks not working",0.3,300.0,2500.0,flite,mp3
+44,5,"are the","are the house phones off",0.4,400.0,2000.0,google,mp3
+44,6,"","is the telephone in the livingroom malfunctioning",0.4,400.0,2000.0,flite,mp3
+44,7,"are the humidifiers running in the house","are the humidifiers running in the house",0.3,300.0,2500.0,google,mp3
+44,8,"","has anyone turned off the hallway smoke detectors",0.4,400.0,2000.0,espeak,mp3
+44,9,"when is the","where is the clock",0.4,400.0,2000.0,google,mp3
+44,10,"living room turned on","are the tvs in the living room turned on",0.4,400.0,2000.0,espeak,mp3
+44,11,"the music on right now","is the music on right now",0.4,400.0,2000.0,google,mp3
+44,12,"still working","are the hallway phones still working",0.4,400.0,2000.0,flite,mp3
+44,13,"did i turn off the phone","did i turn off the phone",0.4,400.0,2000.0,google,mp3
+44,14,"what times does the clock","what time does the clock in the gym say",0.4,400.0,2000.0,flite,mp3
+44,15,"are the","are the ranges broken",0.5,500.0,1500.0,google,mp3
+44,16,"what time do the","what time do the gym clocks read",0.5,500.0,1500.0,espeak,mp3
+44,17,"does the phone in the kitchen work properly","does the phone in the kitchen work properly",0.5,500.0,1500.0,google,mp3
+44,18,"is the tv","is the tv in the home office running",0.5,500.0,1500.0,flite,mp3
+44,19,"","do the hallway's ac units work",0.5,500.0,1500.0,google,mp3
+44,20,"is the","is the phone in the bathroom disabled",0.5,500.0,1500.0,flite,mp3
+44,21,"is the in the living room working correctly","is the thermostate in the diningroom working correctly",0.3,300.0,2500.0,espeak,mp3
+44,22,"what does the thermometer in the bathroom say","what does the thermometer in the bathroom say",0.5,500.0,1500.0,espeak,mp3
+44,23,"","is every gauge in the study working",0.5,500.0,1500.0,google,mp3
+44,24,"","does the ac in the hallway work",0.3,300.0,2500.0,flite,mp3
+44,25,"did you set the alarm","did you check the gym alarms",0.5,500.0,1500.0,google,mp3
+44,26,"are the dining room lights broke","are the dining room lights broke",0.3,300.0,2500.0,flite,mp3
+44,27,"have you","have you turned the burners off",0.3,300.0,2500.0,espeak,mp3
+44,28,"did you remember to set the alarm in the powder room","did you remember to set the alarm in the powder room",0.3,300.0,2500.0,google,mp3
+44,29,"","can you list the location of all of the tvs in your home",0.3,300.0,2500.0,espeak,mp3
+45,0,"","is there an alarm activated in the bedroom",0.3,300.0,2500.0,flite,mp3
+45,1,"either tv in the home office","are the tv's off in the home office",0.3,300.0,2500.0,google,mp3
+45,2,"working","are the irons working",0.3,300.0,2500.0,flite,mp3
+45,3,"is the kitchen foam","is the kitchen phone connected",0.3,300.0,2500.0,google,mp3
+45,4,"","is the humidifier unplugged and off in the office",0.4,400.0,2000.0,flite,mp3
+45,5,"returning","what is the coldest temperature in house",0.4,400.0,2000.0,espeak,mp3
+45,6,"ok or not","are the thermostats in the kitchen okay or not",0.4,400.0,2000.0,flite,mp3
+45,7,"pleasenot in the hallway","did you turn off the phone in the hallway",0.4,400.0,2000.0,espeak,mp3
+45,8,"image","are all the appliances in the kitchen functioning properly",0.4,400.0,2000.0,flite,mp3
+45,9,"is the phone in the connected","is the phone in the gym connected",0.4,400.0,2000.0,google,mp3
+45,10,"need to be","does the lightbulb in the hallway need to be replaced",0.4,400.0,2000.0,flite,mp3
+45,11,"can you answer","can you check to see if the smoke detector in the house is on",0.4,400.0,2000.0,espeak,mp3
+45,12,"is there anything in the fridge","is there anything within date in the fridge",0.4,400.0,2000.0,flite,mp3
+45,13,"is the phone in the living room","is the phone in the living room turned on",0.4,400.0,2000.0,espeak,mp3
+45,14,"is the bedroom humidifier not functioning optimally","is the bedroom humidifier not functioning optimally",0.3,300.0,2500.0,google,mp3
+45,15,"is the home office currently running","is the home office's ac currently running",0.5,500.0,1500.0,google,mp3
+45,16,"he put the microwave kitchen","is that the microwave on in the kitchen",0.5,500.0,1500.0,flite,mp3
+45,17,"serving","are the sensors in the hallway on",0.3,300.0,2500.0,espeak,mp3
+45,18,"is there any kitchen","is the reading on the kitchen thermometer correct",0.5,500.0,1500.0,flite,mp3
+45,19,"let them returning bathroom hallway","what temperature is the thermometer in the bathroom showing",0.5,500.0,1500.0,espeak,mp3
+45,20,"is like","is the hallway light on",0.5,500.0,1500.0,flite,mp3
+45,21,"is the light off in the left room","is the light off in the restroom",0.5,500.0,1500.0,espeak,mp3
+45,22,"is the time in the dining room on","is the time in the diningroom on",0.5,500.0,1500.0,google,mp3
+45,23,"see the light in the hallway","do the lights in the hallway work correctly",0.5,500.0,1500.0,google,mp3
+45,24,"in the bedroom","what is the stauts of the bedroom alarm",0.5,500.0,1500.0,flite,mp3
+45,25,"in the","are the clocks in the crib off",0.5,500.0,1500.0,espeak,mp3
+45,26,"are phones working in kitchen","are phones working in kitchen",0.3,300.0,2500.0,google,mp3
+45,27,"please","did the kitchen tv malfunction",0.3,300.0,2500.0,espeak,mp3
+45,28,"are the thermometers in the gym on","are the thermometers in the gym on",0.3,300.0,2500.0,google,mp3
+45,29,"is the bathroom light switched off","is the bathroom light switched off",0.3,300.0,2500.0,flite,mp3
+46,0,"is there a","is there an alarm activated in the bedroom",0.3,300.0,2500.0,flite,mp3
+46,1,"","are the tv's off in the home office",0.3,300.0,2500.0,google,mp3
+46,2,"are the","are the irons working",0.3,300.0,2500.0,flite,mp3
+46,3,"phone connected","is the kitchen phone connected",0.3,300.0,2500.0,google,mp3
+46,4,"","is the humidifier unplugged and off in the office",0.4,400.0,2000.0,flite,mp3
+46,5,"","what is the coldest temperature in house",0.4,400.0,2000.0,espeak,mp3
+46,6,"are theokay or not","are the thermostats in the kitchen okay or not",0.4,400.0,2000.0,flite,mp3
+46,7,"","did you turn off the phone in the hallway",0.4,400.0,2000.0,espeak,mp3
+46,8,"are all the","are all the appliances in the kitchen functioning properly",0.4,400.0,2000.0,flite,mp3
+46,9,"","is the phone in the gym connected",0.4,400.0,2000.0,google,mp3
+46,10,"does the light bulb in the hallway need to be replaced","does the lightbulb in the hallway need to be replaced",0.4,400.0,2000.0,flite,mp3
+46,11,"","can you check to see if the smoke detector in the house is on",0.4,400.0,2000.0,espeak,mp3
+46,12,"is there anything in the fridge","is there anything within date in the fridge",0.4,400.0,2000.0,flite,mp3
+46,13,"is the phone in the living room turned on","is the phone in the living room turned on",0.4,400.0,2000.0,espeak,mp3
+46,14,"is the bedroom humidifier not functioning optimally","is the bedroom humidifier not functioning optimally",0.3,300.0,2500.0,google,mp3
+46,15,"is the home officecurrently running","is the home office's ac currently running",0.5,500.0,1500.0,google,mp3
+46,16,"is microwavethe kitchen","is that the microwave on in the kitchen",0.5,500.0,1500.0,flite,mp3
+46,17,"","are the sensors in the hallway on",0.3,300.0,2500.0,espeak,mp3
+46,18,"is there any you want me to","is the reading on the kitchen thermometer correct",0.5,500.0,1500.0,flite,mp3
+46,19,"what temperature is the thermometer in the bathroom showing","what temperature is the thermometer in the bathroom showing",0.5,500.0,1500.0,espeak,mp3
+46,20,"is the hallway light on","is the hallway light on",0.5,500.0,1500.0,flite,mp3
+46,21,"is the light off in the bathroom","is the light off in the restroom",0.5,500.0,1500.0,espeak,mp3
+46,22,"is the in the dining room on","is the time in the diningroom on",0.5,500.0,1500.0,google,mp3
+46,23,"the light from the hallway","do the lights in the hallway work correctly",0.5,500.0,1500.0,google,mp3
+46,24,"what","what is the stauts of the bedroom alarm",0.5,500.0,1500.0,flite,mp3
+46,25,"are the in the","are the clocks in the crib off",0.5,500.0,1500.0,espeak,mp3
+46,26,"are phones working in kitchen","are phones working in kitchen",0.3,300.0,2500.0,google,mp3
+46,27,"","did the kitchen tv malfunction",0.3,300.0,2500.0,espeak,mp3
+46,28,"are the thermometers in theon","are the thermometers in the gym on",0.3,300.0,2500.0,google,mp3
+46,29,"is the bathroom light switch off","is the bathroom light switched off",0.3,300.0,2500.0,flite,mp3
+47,0,"","is there an alarm activated in the bedroom",0.3,300.0,2500.0,flite,mp3
+47,1,"","are the tv's off in the home office",0.3,300.0,2500.0,google,mp3
+47,2,"aunty ill working","are the irons working",0.3,300.0,2500.0,flite,mp3
+47,3,"","is the kitchen phone connected",0.3,300.0,2500.0,google,mp3
+47,4,"","is the humidifier unplugged and off in the office",0.4,400.0,2000.0,flite,mp3
+47,5,"","what is the coldest temperature in house",0.4,400.0,2000.0,espeak,mp3
+47,6,"","are the thermostats in the kitchen okay or not",0.4,400.0,2000.0,flite,mp3
+47,7,"","did you turn off the phone in the hallway",0.4,400.0,2000.0,espeak,mp3
+47,8,"","are all the appliances in the kitchen functioning properly",0.4,400.0,2000.0,flite,mp3
+47,9,"","is the phone in the gym connected",0.4,400.0,2000.0,google,mp3
+47,10,"","does the lightbulb in the hallway need to be replaced",0.4,400.0,2000.0,flite,mp3
+47,11,"","can you check to see if the smoke detector in the house is on",0.4,400.0,2000.0,espeak,mp3
+47,12,"","is there anything within date in the fridge",0.4,400.0,2000.0,flite,mp3
+47,13,"","is the phone in the living room turned on",0.4,400.0,2000.0,espeak,mp3
+47,14,"","is the bedroom humidifier not functioning optimally",0.3,300.0,2500.0,google,mp3
+47,15,"","is the home office's ac currently running",0.5,500.0,1500.0,google,mp3
+47,16,"","is that the microwave on in the kitchen",0.5,500.0,1500.0,flite,mp3
+47,17,"","are the sensors in the hallway on",0.3,300.0,2500.0,espeak,mp3
+47,18,"","is the reading on the kitchen thermometer correct",0.5,500.0,1500.0,flite,mp3
+47,19,"","what temperature is the thermometer in the bathroom showing",0.5,500.0,1500.0,espeak,mp3
+47,20,"","is the hallway light on",0.5,500.0,1500.0,flite,mp3
+47,21,"","is the light off in the restroom",0.5,500.0,1500.0,espeak,mp3
+47,22,"","is the time in the diningroom on",0.5,500.0,1500.0,google,mp3
+47,23,"","do the lights in the hallway work correctly",0.5,500.0,1500.0,google,mp3
+47,24,"","what is the stauts of the bedroom alarm",0.5,500.0,1500.0,flite,mp3
+47,25,"","are the clocks in the crib off",0.5,500.0,1500.0,espeak,mp3
+47,26,"","are phones working in kitchen",0.3,300.0,2500.0,google,mp3
+47,27,"","did the kitchen tv malfunction",0.3,300.0,2500.0,espeak,mp3
+47,28,"","are the thermometers in the gym on",0.3,300.0,2500.0,google,mp3
+47,29,"","is the bathroom light switched off",0.3,300.0,2500.0,flite,mp3
